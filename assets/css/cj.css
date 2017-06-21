@@ -584,7 +584,7 @@
 @media (min-width: 768px) {
     .tile {
         display: table-cell;
-        vertical-align: top
+        vertical-align: middle
     }
 }
 
