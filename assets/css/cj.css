@@ -571,7 +571,7 @@
 @media (min-width: 768px) {
     .tile-row {
         display: table;
-        max-width: 1400px;
+        max-width: 1500px;
         margin: 0 auto;
         overflow: hidden
     }
