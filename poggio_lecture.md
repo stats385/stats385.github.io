@@ -5,7 +5,7 @@
 
 ![Tomaso Poggio](/assets/img/poggio.png)  
 
-Tomaso Armando Poggio is the Eugene McDermott professor in the Department of Brain and Cognitive Sciences, an investigator at the McGovern Institute for Brain Research, a member of the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and director of both the Center for Biological and Computational Learning at MIT and the Center for Brains, Minds, and Machines, a multi-institutional collaboration headquartered at the McGovern Institute since 2013
+[Tomaso Poggio](https://mcgovern.mit.edu/principal-investigators/tomaso-poggio) is the Eugene McDermott professor in the Department of Brain and Cognitive Sciences, an investigator at the McGovern Institute for Brain Research, a member of the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and director of both the Center for Biological and Computational Learning at MIT and the Center for Brains, Minds, and Machines, a multi-institutional collaboration headquartered at the McGovern Institute since 2013
 
 His interdisciplinary research on the problem of intelligence, between brains and computers, started at the Max Planck Institute in Tuebingen, Germany in collaborations with Werner E. Reichardt, David C. Marr and Francis H.C. Crick, among others. He has made contributions to learning theory, to the computational theory of vision, to the understanding of the fly's visual system, and to the biophysics of computation. His recent work is focused on computational neuroscience in close collaboration with several physiology labs, trying to answer the questions of how our visual system learns to see and recognize scenes and objects.[2]
 
