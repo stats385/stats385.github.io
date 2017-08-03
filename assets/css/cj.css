@@ -52,11 +52,59 @@
   border-radius: 120px;
   margin-bottom: 10px;
 }
+
+
+
+
+
+.speaker-wrap {
+    width: 100%;
+    display: inline-block;
+}
+.speakerphoto,
+.card {
+    display: inline-block;
+    vertical-align: middle
+}
+
+
+.speakerphoto img {
+    width: 90px;
+    height: 90px;
+    border-radius: 90px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    margin-right: 10px;
+    display: inline-block;
+    float:left;
+    vertical-align:middle;
+}
+
+
+.speakerphoto {
+    float: left;
+    display: inline-block;
+}
+
+
 .instructor {
   display: inline-block;
-  width: 125px;
+  width: 120px;
   text-align: center;
   margin-right: 20px;
+}
+
+
+.talkdate {
+    margin-left: 10px;
+}
+
+.speaker {
+    margin-left: 10px;
+}
+
+.speakerposition {
+    margin-left: 10px;
 }
 
 
