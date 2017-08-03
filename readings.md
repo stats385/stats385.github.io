@@ -25,9 +25,8 @@ layout: default
 10. [Stable Recovery of the Factors From a Deep Matrix Product and Application to Convolutional Network](https://arxiv.org/abs/1703.08044) by Malgouyres and Landsberg
 11. [Optimal Approximation with Sparse Deep Neural Networks](https://www.math.tu-berlin.de/fileadmin/i26_fg-kutyniok/Kutyniok/Papers/OptApproxSparseDNN.pdf) by Bolcskei et al.
 
-## Additional material
-* [Learning Functions: When is Deep Better Than Shallow](https://arxiv.org/abs/1603.00988) by Mhaskar et al.
-* [Convolutional Rectifier Networks as Generalized Tensor Decompositions](https://arxiv.org/abs/1603.00162) by Cohen and Shashua
-* [A Probabilistic Theory of Deep Learning](https://arxiv.org/abs/1504.00641) by Patel et al.
+12. [Learning Functions: When is Deep Better Than Shallow](https://arxiv.org/abs/1603.00988) by Mhaskar et al.
+13. [Convolutional Rectifier Networks as Generalized Tensor Decompositions](https://arxiv.org/abs/1603.00162) by Cohen and Shashua
+14. [A Probabilistic Theory of Deep Learning](https://arxiv.org/abs/1504.00641) by Patel et al.
 
 [back](./)
