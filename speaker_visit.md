@@ -34,3 +34,5 @@ To make sure that you will receive full reimbursement for your travel expenses, 
 
     Alcohol is not reimbursable.
 
+[Go to course website](./)
+
