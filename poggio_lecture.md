@@ -1,0 +1,12 @@
+
+    Topics covered in this lecture
+
+
+
+![Tomaso Poggio](/assets/img/poggio.png)  
+
+Tomaso Armando Poggio is the Eugene McDermott professor in the Department of Brain and Cognitive Sciences, an investigator at the McGovern Institute for Brain Research, a member of the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and director of both the Center for Biological and Computational Learning at MIT and the Center for Brains, Minds, and Machines, a multi-institutional collaboration headquartered at the McGovern Institute since 2013
+
+His interdisciplinary research on the problem of intelligence, between brains and computers, started at the Max Planck Institute in Tuebingen, Germany in collaborations with Werner E. Reichardt, David C. Marr and Francis H.C. Crick, among others. He has made contributions to learning theory, to the computational theory of vision, to the understanding of the fly's visual system, and to the biophysics of computation. His recent work is focused on computational neuroscience in close collaboration with several physiology labs, trying to answer the questions of how our visual system learns to see and recognize scenes and objects.[2]
+
+He is one of the most cited computational neuroscientists. with contributions ranging from the biophysical and behavioral studies of the visual system to the computational analyses of vision and learning in humans and machines. With Werner E. Reichardt he characterized quantitatively the visuo-motor control system in the fly. With David Marr (neuroscientist), he introduced the seminal idea of levels of analysis in computational neuroscience. He introduced regularization as a mathematical framework to approach the ill-posed problems of vision and the key problem of learning from data. The citation for the 2009 Okawa prize mentions his "...outstanding contributions to the establishment of computational neuroscience, and pioneering researches ranging from the biophysical and behavioral studies of the visual system to the computational analysis of vision and learning in humans and machines." His research has always been interdisciplinary, between brains and computers. It is now focused on the mathematics of deep learning and on the computational neuroscience of the visual cortex.

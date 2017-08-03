@@ -7,7 +7,24 @@ layout: titlepage
 For questions/concerns/bug reports, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Hatef Monajemi](http://web.stanford.edu/~monajemi/) (@monajemi on GitHub) or [Vardan Papyan](http://vardanp.cswp.cs.technion.ac.il/).
 
 
-# [](announcements)Announcements
-# [](#hw)Assignments
+# [](#announcements)Announcements
+
+
+## [](#guest-lectures) Guest Lectures
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/poggio.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./poggio_lecture"> Wednesday, 10/25/2017</a> <br>
+<span class="speaker">Tomaso Poggio</span> <br>
+<span class="speakerposition">MIT</span>
+</div>
+</div>
+---
+
+
 # [Readings](readings)
 
