@@ -17,7 +17,7 @@ Please make sure you review [reimbursement policies](#reimbursement-policies)
 ## Reimbursement policies
 To make sure that you will receive full reimbursement for your travel expenses, please review the following policies before you make arrangements.
 
-1. **Airfair** 
+1. **Airfare** 
    * The route between origin and destination is the most direct and frequently traveled (i.e., no circuitous routing)
    * May be a nonstop flight if requested by the traveler 	
    * Does not require stays beyond the traveler's requested dates of travel  
