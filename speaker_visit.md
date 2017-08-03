@@ -15,7 +15,8 @@ Please make sure you review [reimbursement policies](#reimbursement-policies)
 
 
 ## Reimbursement policies
-To make sure that you will receive full reimbursement for your travel expenses, please review the following policies before you make arrangements.
+To make sure that you will receive full reimbursement for your travel expenses, please review the following policies before you make arrangements. Any question or concerns regarding these policies must be directed to department manager Ms. [Van Stone](https://statistics.stanford.edu/people/ellen-van-stone) (Email: vanstone AT stanford.edu)
+
 
 1. **Airfare** 
    * The route between origin and destination is the most direct and frequently traveled (i.e., no circuitous routing)
