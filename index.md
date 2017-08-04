@@ -9,6 +9,17 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 
 ## [](#guest-lectures) Guest Lectures
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/bolcskei.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./bolcskei_lecture"> Wednesday, 10/11/2017</a> <br>
+<span class="speaker">Helmut Bolcskei</span> <br>
+<span class="speakerposition">ETH Zurich</span>
+</div>
+</div>
 
 ---
 <div class="speaker-wrap">
