@@ -28,7 +28,7 @@ To make sure that you will receive full reimbursement for your travel expenses, 
 
 2. **Meals**  
 
-   Stanford pays for reasonably priced and necessary meals during travel. Itemized receipts are required for meal reimbursement.
+   Stanford pays for reasonably priced and necessary meals during travel. Itemized receipts are required for meal reimbursement. Alcohol is not reimbursebale. 
 
 
 
