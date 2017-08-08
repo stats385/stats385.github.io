@@ -26,7 +26,6 @@ Travelers can be reimbursed for coach/ economy air travel, with the exception th
     >If a portion of your travel is personal, and you then will fly a different route, you need to save proof of lowest airfare for the direct route (screenshot of lowest available fares at time of booking). Stanford will then reimburse the lower of the actual airfare for the route flown or the documented lowest available fare for the direct route.  
 
 2. **Meals**  
-
 Stanford pays for reasonably priced and necessary meals during travel. Itemized receipts are required for meal reimbursement. Alcohol is not reimbursable. 
 
 
