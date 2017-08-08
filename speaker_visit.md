@@ -17,13 +17,13 @@ To make sure that you will receive the maximum allowable reimbursement for your 
 
 1. **Airfare** 
 Travelers can be reimbursed for coach/ economy air travel, with the exception that international travelers on flights of 8 hours or more can be reimbursed for business class. It must be the lowest available airfare that meets the traveler’s choices determined by the following criteria:
-* The route between origin and destination is the most direct and frequently traveled (i.e., no circuitous routing).
-* May be a nonstop flight if requested by the traveler.	
-* Does not require stays beyond the traveler's requested dates of travel.     
+    * The route between origin and destination is the most direct and frequently traveled (i.e., no circuitous routing).
+    * May be a nonstop flight if requested by the traveler.	
+    * Does not require stays beyond the traveler's requested dates of travel.     
 
->If you choose to fly a higher class of service than economy (or business class for international flights over 8 hours), you need to save proof of the lowest economy fare or lowest business class fare for international flights over 8 hours for the same route (screenshot of lowest available fares AT THE TIME of BOOKING). Stanford will reimburse the documented comparison economy fare or comparison business class fare for international flights over 8 hours, and the traveler will be responsible for the balance.    
+    >If you choose to fly a higher class of service than economy (or business class for international flights over 8 hours), you need to save proof of the lowest economy fare or lowest business class fare for international flights over 8 hours for the same route (screenshot of lowest available fares AT THE TIME of BOOKING). Stanford will reimburse the documented comparison economy fare or comparison business class fare for international flights over 8 hours, and the traveler will be responsible for the balance.    
 
->If a portion of your travel is personal, and you then will fly a different route, you need to save proof of lowest airfare for the direct route (screenshot of lowest available fares at time of booking). Stanford will then reimburse the lower of the actual airfare for the route flown or the documented lowest available fare for the direct route.  
+    >If a portion of your travel is personal, and you then will fly a different route, you need to save proof of lowest airfare for the direct route (screenshot of lowest available fares at time of booking). Stanford will then reimburse the lower of the actual airfare for the route flown or the documented lowest available fare for the direct route.  
 
 2. **Meals**  
 
