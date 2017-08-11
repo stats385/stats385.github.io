@@ -33,6 +33,17 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 ---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/bruna.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./bruna_lecture"> Wednesday, 11/15/2017</a> <br>
+<span class="speaker">Joan Bruna</span> <br>
+<span class="speakerposition">Courant Institute, NYU</span>
+</div>
+</div>
+---
 
 
 ## [Readings](readings)
