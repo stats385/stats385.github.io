@@ -1,8 +1,9 @@
-<div class="abstract"><b>Topology reduction in deep neural networks</b>
-
+<div class="abstract">
+<strong>Topology reduction in deep neural networks</strong>
+<br>
 Deep convolutional neural networks (CNNs) used in practice employ potentially hundreds of layers and 10,000s of nodes. Such network sizes entail formidable challenges in training, operating, and storing the network. Very deep and wide CNNs may therefore not be well suited to applications operating under severe resource constraints as is the case, e.g., in low-power embedded and mobile platforms. This talk aims at understanding the impact of CNN topology, specifically depth and width, on the network’s feature extraction and expressivity capabilities.  
 <br>
-<b>Readings for this lecture</b>  
+<strong>Readings for this lecture</strong>  
 <ol>
     <li>
     <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A Mathematical Theory of Deep Convolutional ... </a>
