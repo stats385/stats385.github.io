@@ -1,5 +1,4 @@
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:40px 0;">
+<div class="abstract">
 <b>Topology reduction in deep neural networks</b>
 <br>
 Deep convolutional neural networks (CNNs) used in practice employ potentially hundreds of layers and 10,000s of nodes. Such network sizes entail formidable challenges in training, operating, and storing the network. Very deep and wide CNNs may therefore not be well suited to applications operating under severe resource constraints as is the case, e.g., in low-power embedded and mobile platforms. This talk aims at understanding the impact of CNN topology, specifically depth and width, on the network’s feature extraction and expressivity capabilities.  
@@ -11,7 +10,6 @@ Deep convolutional neural networks (CNNs) used in practice employ potentially hu
 <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy Propagation in Deep Convolutional... </a>
 <br>
 <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology Reduction in Deep Convolutional... </a>
-
 </div>
 
 ![Helmut Bolcskei](/assets/img/bolcskei.jpg)  
