@@ -6,13 +6,13 @@ Deep convolutional neural networks (CNNs) used in practice employ potentially hu
 <strong>Readings for this lecture</strong>  
 <ol>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A Mathematical Theory of Deep Convolutional ... </a>
+    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A mathematical theory of deep convolutional neural networks for feature extraction </a>
     </li>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy Propagation in Deep Convolutional ... </a>
+    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy propagation in deep convolutional neural networks </a>
     </li>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology Reduction in Deep Convolutional ... </a>
+<a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology reduction in deep convolutional feature extraction networks </a>
     </li>
 </ol>
 </div>
