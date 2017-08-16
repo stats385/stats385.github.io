@@ -6,5 +6,3 @@ gems:
   - jekyll-mentions 
 plugins:
   - jekyll-seo-tag
-markdown_extensions:
-    - admonition    
