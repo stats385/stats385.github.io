@@ -35,6 +35,17 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
+<img src="assets/img/zaid.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./harchaoui_lecture"> Wednesday, 11/1/2017</a> <br>
+<span class="speaker">Zaid Harchaoui</span> <br>
+<span class="speakerposition">University of Washington</span>
+</div>
+</div>
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
 <img src="assets/img/bruna.png">
 </div>
 <div class="card">
@@ -44,6 +55,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 ---
+
 
 
 ## [Readings](readings)
