@@ -7,8 +7,7 @@
     <li>
     <a href=""> Reading 1 </a>
     </li>
-
-    </ol>
+</ol>
 </div>
 
 ![Zaid Harchaoui](/assets/img/zaid.png)  
