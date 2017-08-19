@@ -27,7 +27,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/poggio.png">
 </div>
 <div class="card">
-<a class="talkdate" href="./poggio_lecture"> Wednesday, 10/25/2017</a> <br>
+<a class="talkdate" href="./poggio_lecture"> Tuesday, 10/24/2017 (jointly with Stats seminar)</a> <br>
 <span class="speaker">Tomaso Poggio</span> <br>
 <span class="speakerposition">MIT</span>
 </div>
