@@ -12,7 +12,7 @@
     <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy propagation in deep convolutional neural networks </a>
     </li>
 <li>
-<a href="https://www.nari.ee.ethz.ch/commth//pubs/files/ICML2016.pdf"> Discrete Deep Feature Extraction: A Theory and New Architectures </a>
+<a href="https://www.nari.ee.ethz.ch/commth//pubs/files/ICML2016.pdf"> Discrete deep feature extraction: A theory and new architectures </a>
 </li>
     <li>
     <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology reduction in deep convolutional feature extraction networks </a>
