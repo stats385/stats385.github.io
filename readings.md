@@ -23,7 +23,7 @@ layout: default
 8. [Convolutional Neural Networks Analyzed via Convolutional Sparse Coding](https://arxiv.org/pdf/1607.08194.pdf) by Papyan et al.
 9. [Why are Deep Nets Reversible: A Simple Theory, With Implications for Training](https://arxiv.org/pdf/1511.05653.pdf) by Arora et al.
 10. [Stable Recovery of the Factors From a Deep Matrix Product and Application to Convolutional Network](https://arxiv.org/abs/1703.08044) by Malgouyres and Landsberg
-11. [Optimal Approximation with Sparse Deep Neural Networks](https://www.math.tu-berlin.de/fileadmin/i26_fg-kutyniok/Kutyniok/Papers/OptApproxSparseDNN.pdf) by Bolcskei et al.
+11. [Optimal Approximation with Sparse Deep Neural Networks](https://www.nari.ee.ethz.ch/commth//pubs/files/deep-approx-17.pdf) by Bolcskei et al.
 
 12. [Learning Functions: When is Deep Better Than Shallow](https://arxiv.org/abs/1603.00988) by Mhaskar et al.
 13. [Convolutional Rectifier Networks as Generalized Tensor Decompositions](https://arxiv.org/abs/1603.00162) by Cohen and Shashua
