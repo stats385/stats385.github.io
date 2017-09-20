@@ -49,9 +49,20 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/zaid.png">
 </div>
 <div class="card">
-<a class="talkdate" href="./harchaoui_lecture">Wednesday, 11/1/2017</a> <br>
+<a class="talkdate" href="./harchaoui_lecture">Wednesday, 11/01/2017</a> <br>
 <span class="speaker">Zaid Harchaoui</span> <br>
 <span class="speakerposition">University of Washington</span>
+</div>
+</div>
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/pennington.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./pennington_lecture">Wednesday, 11/08/2017</a> <br>
+<span class="speaker">Jeffrey Pennington</span> <br>
+<span class="speakerposition">Google, NY</span>
 </div>
 </div>
 ---
