@@ -24,6 +24,17 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
+<img src="assets/img/bruno_olshausen.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./olshausen_lecture">Wednesday, 10/18/2017</a> <br>
+<span class="speaker">Bruno Olshausen</span> <br>
+<span class="speakerposition">UC Berkeley</span>
+</div>
+</div>
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
 <img src="assets/img/poggio.png">
 </div>
 <div class="card">
