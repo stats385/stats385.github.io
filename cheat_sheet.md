@@ -11,7 +11,7 @@ Since backpropagation had not yet been applied for training neural nets at the t
 <a href="https://ml4a.github.io/ml4a/convnets/"> source </a>
 </p>
 
-<strong>LeNet-5</strong>
+<strong><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"> LeNet-5 </a></strong>
 <p align="justify">
 A pioneering digit classification neural network by LeCun et. al.
 It was applied by several banks to recognise hand-written numbers on checks.
@@ -57,7 +57,7 @@ The weights in the convolutional layers are shared, which means that the same fi
 A generative network that is a special kind of convolutional network that uses transpose convolutions, also known as a deconvolutional layers.
 </p>
 
-<strong>Generative Adversarial Networks (GAN)</strong>
+<strong><a href="https://arxiv.org/pdf/1406.2661.pdf"> Generative Adversarial Networks (GAN) </a></strong>
 <p align="justify">
 A system of two neural networks, introduced by Ian Goodfellow et al. in 2014, contesting with each other in a zero-sum game framework.
 The first is a deconvolutional network that generates signals.
@@ -82,15 +82,40 @@ The number of layers in the network.
 
 <strong>Feature vector / representation / volume</strong>
 <p align="justify">
-A three dimensional tensor of size WxHxD obtained in a certain layer of a neural network.
+A three dimensional tensor of size
+<a href="http://www.codecogs.com/eqnedit.php?latex=W&space;\times&space;H&space;\times&space;D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?W&space;\times&space;H&space;\times&space;D" title="W \times H \times D" /></a>
+obtained in a certain layer of a neural network.
 W is the width, H is the height and D is the depth, i.e., the number of channels.
-If there is more than one example, this becomes a four dimensional tensor of size WxHxDxB, where B is the batch size.
+If there is more than one example, this becomes a four dimensional tensor of size
+<a href="http://www.codecogs.com/eqnedit.php?latex=W&space;\times&space;H&space;\times&space;D&space;\times&space;B" target="_blank"><img src="http://latex.codecogs.com/gif.latex?W&space;\times&space;H&space;\times&space;D&space;\times&space;B" title="W \times H \times D \times B" /></a>
+, where
+<a href="http://www.codecogs.com/eqnedit.php?latex=B" target="_blank"><img src="http://latex.codecogs.com/gif.latex?B" title="B" /></a>
+is the batch size.
 </p>
 
 <strong>Filters and biases</strong>
 <p align="justify">
-Filters are a four dimensional tensor of size FxFxDxK and biases are a vector of length K.
-F is the width and height of the filter, D is the number of channels and K is the number of filters.
+Filters are a four dimensional tensor of size
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=F&space;\times&space;F&space;\times&space;D&space;\times&space;K" target="_blank"><img src="http://latex.codecogs.com/gif.latex?F&space;\times&space;F&space;\times&space;D&space;\times&space;K" title="F \times F \times D \times K" /></a>
+
+and biases are a vector of length
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=K" target="_blank"><img src="http://latex.codecogs.com/gif.latex?K" title="K" /></a>
+
+.
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=F" target="_blank"><img src="http://latex.codecogs.com/gif.latex?F" title="F" /></a>
+
+ is the width and height of the filter,
+ 
+<a href="http://www.codecogs.com/eqnedit.php?latex=D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?D" title="D" /></a>
+
+ is the number of channels and 
+ 
+<a href="http://www.codecogs.com/eqnedit.php?latex=K" target="_blank"><img src="http://latex.codecogs.com/gif.latex?K" title="K" /></a>
+
+ is the number of filters.
 </p>
 
 <strong>Convolutional (Conv) layer</strong>
@@ -326,49 +351,48 @@ A perturbation added to the input of the network or one of the feature vectors i
 </p>
 
 ## Datasets
-<strong>MNIST</strong>
+<strong><a href="http://yann.lecun.com/exdb/mnist/"> MNIST </a></strong>
 <p align="justify">
 The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples.
 The digits have been size-normalized and centered in a fixed-size 28x28 image.<br />
-<a href="http://yann.lecun.com/exdb/mnist/"> source </a>
 </p>
 
-<strong>CIFAR-10</strong>
+<strong><a href="https://www.cs.toronto.edu/~kriz/cifar.html"> CIFAR-10 </a></strong>
 <p align="justify">
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class.
 There are 50000 training images and 10000 test images.<br />
-<a href="https://www.cs.toronto.edu/~kriz/cifar.html"> source </a>
 </p>
 
-<strong>Imagenet</strong>
+<strong><a href="http://www.image-net.org/"> ImageNet </a></strong>
 <p align="justify">
 A large image database that has over ten million URLs of images that were hand-annotated using Amazon Mechanical Turk to indicate what objects are pictured.<br />
 <a href="https://en.wikipedia.org/wiki/ImageNet"> source </a>
 </p>
 
 ## Contests
-<strong>ImageNet Large Scale Visual Recognition Challenge (ILSVRC)</strong>
+
+<strong><a href="http://www.image-net.org/challenges/LSVRC/"> ImageNet Large Scale Visual Recognition Challenge (ILSVRC) </a></strong>
 <p align="justify">
 A competition in which teams compete to obtain the highest accuracy on several computer vision tasks, such as image classification.<br />
 <a href="https://en.wikipedia.org/wiki/ImageNet"> source </a>
 </p>
 
 ## Personalities
-<strong>Geoff Hinton</strong>
+<strong><a href="http://www.cs.toronto.edu/~hinton/"> Geoff Hinton </a></strong>
 <p align="justify">
 A cognitive psychologist and computer scientist, most noted for his work on artificial neural networks.
 He was one of the first researchers who demonstrated the use of backpropagation algorithm for training multi-layer neural networks.<br />
 <a href="https://en.wikipedia.org/wiki/Geoffrey_Hinton"> source </a>
 </p>
 
-<strong>Yann LeCun</strong>
+<strong><a href="http://yann.lecun.com/"> Yann Lecun </a></strong>
 <p align="justify">
 A computer scientist with contributions in machine learning, computer vision, mobile robotics and computational neuroscience.
 He is well known for his work on optical character recognition and computer vision using convolutional neural networks, and is a founding father of convolutional nets.<br />
 <a href="https://en.wikipedia.org/wiki/Yann_LeCun"> source </a>
 </p>
 
-<strong>Yoshua Bengio</strong>
+<strong><a href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/"> Yoshua Bengio </a></strong>
 <p align="justify">
 A computer scientist, most noted for his work on artificial neural networks and deep learning.
 He has contributed to a wide spectrum of machine learning areas and is well known for his theoretical results on recurrent neural networks, kernel machines, distributed representations, depth of neural architectures, and the optimization challenge of deep learning.
@@ -376,14 +400,14 @@ His work was crucial in advancing how deep networks are trained, how neural netw
 <a href="https://www.creativedestructionlab.com/people/yoshua-bengio/"> source </a>
 </p>
 
-<strong>Fei Fei Li</strong>
+<strong><a href="http://vision.stanford.edu/feifeili/"> Fei Fei Li </a></strong>
 <p align="justify">
 A computer scientist whose main research areas are in machine learning, deep learning, computer vision and cognitive and computational neuroscience.
 She is the inventor of ImageNet and the ImageNet Challenge, a critical large-scale dataset and benchmarking effort that has contributed to the latest developments in deep learning and AI.<br />
 <a href="http://www.itu.int/en/ITU-T/AI/Pages/li.fei-fei.aspx"> source </a>
 </p>
 
-<strong>Andrew Ng</strong>
+<strong><a href="http://www.andrewng.org/"> Andrew Ng </a></strong>
 <p align="justify">
 A computer scientist, whose research is on machine learning and AI, with an emphasis on deep learning.
 In 2011, Ng founded the Google Brain project at Google, which developed very large scale artificial neural networks using Google's distributed computer infrastructure.
@@ -392,14 +416,14 @@ Among its notable results was a neural network trained using deep learning algor
 </p>
 
 ## Teams
-<strong>Google brain</strong>
+<strong><a href="https://research.google.com/teams/brain/"> Google brain </a></strong>
 <p align="justify">
 A deep learning artificial intelligence research project at Google.
 It combines open-ended machine learning research with system engineering and Google-scale computing resources.<br />
 <a href="https://en.wikipedia.org/wiki/Google_Brain"> source </a>
 </p>
 
-<strong>Deep mind</strong>
+<strong><a href="https://deepmind.com/"> Deep mind </a></strong>
 <p align="justify">
 A British artificial intelligence company founded in September 2010 and acquired by Google in 2014.
 The company has created a neural network that learns how to play video games in a fashion similar to that of humans, as well as a Neural Turing Machine, or a neural network that may be able to access an external memory like a conventional Turing machine, resulting in a computer that mimics the short-term memory of the human brain.
@@ -407,7 +431,7 @@ The company made headlines in 2016 after its AlphaGo program beat a human profes
 <a href="https://en.wikipedia.org/wiki/DeepMind"> source </a>
 </p>
 
-<strong>Facebook AI research (FAIR)</strong>
+<strong><a href="https://research.fb.com/category/facebook-ai-research-fair/"> Facebook AI research (FAIR) </a></strong>
 <p align="justify">
 An artificial intelligence research group in Facebook, led by Yann Lecun.
 One of its notable projects is DeepFace -- a deep learning facial recognition system that identifies human faces in digital images.
@@ -416,7 +440,7 @@ The system is said to be 97% accurate, compared to 85% for the FBI's Next Genera
 <a href="https://en.wikipedia.org/wiki/DeepFace"> source </a>
 </p>
 
-<strong>Canadian Institute for Advanced Research (CIFAR)</strong>
+<strong><a href="https://www.cifar.ca/"> Canadian Institute for Advanced Research (CIFAR)</a></strong>
 <p align="justify">
 Founded in 1982, is an institute of advanced study that creates and maintains global research networks working on complex areas of inquiry.
 It is supported by individuals, foundations and corporations, as well as funding from the Government of Canada and the Provinces of Quebec, Ontario, British Columbia and Alberta.
@@ -490,15 +514,16 @@ Like ICCV and CVPR, it is considered an important conference in computer vision.
 ## Resources
 <strong><a href="http://cs231n.github.io/"> CS231n </a></strong>
 <p align="justify">
-A course on convolutional neural networks for visual recognition in Stanford's computer science department. \br
+A course on convolutional neural networks for visual recognition in Stanford's computer science department.
 </p>
 
 <strong><a href="http://www.deeplearningbook.org/"> The deep learning book </a></strong>
 <p align="justify">
+A book on deep learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 </p>
 
 ## Systems
-<strong>Matconvnet</strong>
+<strong><a href="http://www.vlfeat.org/matconvnet/"> Matconvnet </a></strong>
 <p align="justify">
 MatConvNet is a MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications.
 It is simple, efficient, and can run and learn state-of-the-art CNNs.
@@ -506,7 +531,7 @@ Many pre-trained CNNs for image classification, segmentation, face recognition, 
 <a href="http://www.vlfeat.org/matconvnet/"> source </a>
 </p>
 
-<strong>TensorFlow</strong>
+<strong><a href="https://www.tensorflow.org/"> TensorFlow </a></strong>
 <p align="justify">
 An open-source software library for machine learning across a range of tasks.
 It is a system for building and training neural networks to detect and decipher patterns and correlations, analogous to (but not the same as) human learning and reasoning.
@@ -514,14 +539,14 @@ It is used for both research and production at Google.<br />
 <a href="https://en.wikipedia.org/wiki/TensorFlow"> source </a>
 </p>
 
-<strong>PyTorch</strong>
+<strong><a href="http://pytorch.org/"> PyTorch </a></strong>
 <p align="justify">
 An open source machine learning library, a scientific computing framework, and a script language based on the Lua programming language.
 It provides a wide range of algorithms for deep machine learning, and uses the scripting language LuaJIT, and an underlying C implementation.<br />
 <a href="https://en.wikipedia.org/wiki/Torch_(machine_learning)"> source </a>
 </p>
 
-<strong>Keras</strong>
+<strong><a href="https://keras.io/"> Keras </a></strong>
 <p align="justify">
 Keras is an open source neural network library written in Python.
 It is capable of running on top of MXNet, Deeplearning4j, Tensorflow, CNTK or Theano.
