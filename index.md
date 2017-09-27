@@ -10,6 +10,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ## AI News
 
 [AI robots learning racism...](http://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-robots-artificial-intelligence-racism-sexism-prejudice-bias-language-learn-from-humans-a7683161.html)
+
 [FaceApp forced to pull 'racist' filters...](https://www.theguardian.com/technology/2017/aug/10/faceapp-forced-to-pull-racist-filters-digital-blackface)
 
 
