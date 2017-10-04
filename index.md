@@ -80,9 +80,11 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ---
 
 
-## [Cheat Sheet -- stuff that everyone needs to know](cheat_sheet)
+## [Cheat Sheet -- stuff that everyone needs to know](cheat_sheet)    
 
-## [Readings](readings)
+## [Readings](readings)    
+
+## [Lecture slides](lecture_slides)     
 
 ## News Feed
 
