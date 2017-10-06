@@ -149,10 +149,12 @@ a {
 }
 .post-thumb img {
     display: block;
-	width: 400px
+	width: 500px
 }
 .post-content {
-    margin-left: 210px
+	margin: 0 0 0 10px;
+    margin-left: 210px;
+	width: 500px
 }
 
 .main-content {
