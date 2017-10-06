@@ -10,7 +10,7 @@
     </div>
 
 
-![Ankit Patel](/assets/img/ankit_patel.png)  
+![Ankit Patel](/assets/img/ankit_patel.jpg)  
 
 [Ankit Patel](https://ankitlab.co/) is a faculty member at the Baylor College of Medicine in the Dept. of Neuroscience, with a courtesy appointment in the ECE Dept. at Rice University.
 
