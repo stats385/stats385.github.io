@@ -141,22 +141,18 @@ a {
 }
 
 .post-container {
-    margin: 20px 20px 0 0;  
-    border: 5px solid #333;
+    margin: 20px 20px 0 0;
     overflow: auto
 }
 .post-thumb {
     float: left
 }
 .post-thumb img {
-    display: block
+    display: block;
+	width: 400px
 }
 .post-content {
     margin-left: 210px
-}
-.post-title {
-    font-weight: bold;
-    font-size: 200%
 }
 
 .main-content {
