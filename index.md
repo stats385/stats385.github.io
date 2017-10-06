@@ -83,7 +83,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/bruno_olshausen.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./olshausen_lecture">Wednesday, 11/22/2017</a> <br>
+<a class="talkdate" href="./olshausen_lecture">Wednesday, 11/29/2017</a> <br>
 <span class="speaker">Bruno Olshausen</span> <br>
 <span class="speakerposition">UC Berkeley</span>
 </div>

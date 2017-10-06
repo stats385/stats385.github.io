@@ -12,8 +12,4 @@
 
 <img src="/assets/img/ankit_patel.jpg" alt="Ankit Patel" style="width: 200px;"/>
   
-[Ankit Patel](https://ankitlab.co/) is a faculty member at the Baylor College of Medicine in the Dept. of Neuroscience, with a courtesy appointment in the ECE Dept. at Rice University.
-
-He was a Research Scientist at Rice University, focusing on deep machine learning and computational neuroscience, where he worked with Richard Baraniuk in the ECE Dept. He graduated from Harvard with a Ph.D. in Applied Mathematics and his graduate work was done in the EECS Dept. with Radhika Nagpal. His undergraduate degree was in Computer Science and Applied Mathematics (BA, MS, Harvard 2002).
-
-He spent 6 years in industry working on real-time inference systems, including 2 years at MIT Lincoln Laboratory (2002-2004) and 4 years as a Quantitative Trader at Global Electronic Trading Corporation (2008-12) — a high-frequency market-making firm that is now a part of KCG Holdings. Recently, he decided to return to academia and joined Rice in 2013 as a Research Scientist.
+[Ankit Patel](https://ankitlab.co/) is a faculty member at the Baylor college of medicine in the department of neuroscience, with a courtesy appointment in the ECE department at Rice University. His undergraduate degree was in computer science and applied pathematics (BA, MS, Harvard 2002). He then completed his Ph.D. in applied mathematics at the department of EECS at Harvard under the supervision of Radhika Nagpal. He spent 6 years in the industry working on real-time inference systems. Recently, he joined Rice univesity in 2013 as a Research Scientist.
