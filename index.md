@@ -80,7 +80,9 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ---
 
 
-## [Cheat Sheet -- stuff that everyone needs to know](cheat_sheet)    
+## [Basic information about deep learning](basicinfo)    
+
+## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
 ## [Readings](readings)    
 
