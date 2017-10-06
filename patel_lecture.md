@@ -10,8 +10,8 @@
     </div>
 
 
-![Ankit Patel](/assets/img/ankit_patel.jpg =200x200)  
-
+<img src="/assets/img/ankit_patel.jpg" alt="Ankit Patel" style="width: 200px;"/>
+  
 [Ankit Patel](https://ankitlab.co/) is a faculty member at the Baylor College of Medicine in the Dept. of Neuroscience, with a courtesy appointment in the ECE Dept. at Rice University.
 
 He was a Research Scientist at Rice University, focusing on deep machine learning and computational neuroscience, where he worked with Richard Baraniuk in the ECE Dept. He graduated from Harvard with a Ph.D. in Applied Mathematics and his graduate work was done in the EECS Dept. with Radhika Nagpal. His undergraduate degree was in Computer Science and Applied Mathematics (BA, MS, Harvard 2002).
