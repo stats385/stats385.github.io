@@ -25,7 +25,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/ankit_patel.jpeg">
+<img src="assets/img/ankit_patel.jpg">
 </div>
 <div class="card">
 <a class="talkdate" href="./patel_lecture">Wednesday, 10/18/2017</a> <br>
