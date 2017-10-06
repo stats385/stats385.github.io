@@ -140,21 +140,21 @@ a {
   }
 }
 
-.post-container {
-    margin: 0 0 0 500px;
-    overflow: auto
+#container {
+    overflow: hidden;
+    color: white;
 }
-.post-thumb {
-    float: left
+#sidebar {
+    float: left;
 }
-.post-thumb img {
+#sidebar {
+    width: 150px;
+    background: darkred;
+}
+#content {
+    background: green;
     display: block;
-	width: 500px
-}
-.post-content {
-    margin-left: 510px;
-	width: 600px;
-	font-size: 130%
+    overflow: hidden;
 }
 
 .main-content {
