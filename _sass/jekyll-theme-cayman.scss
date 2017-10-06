@@ -148,13 +148,12 @@ a {
     float: left;
 }
 #sidebar {
-    width: 150px;
-    background: darkred;
+    width: 500px;
 }
 #content {
-    background: green;
     display: block;
     overflow: hidden;
+	width: 500 px;
 }
 
 .main-content {
