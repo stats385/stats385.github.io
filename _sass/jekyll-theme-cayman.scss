@@ -140,16 +140,16 @@ a {
   }
 }
 
-#container {
+.container {
     overflow: hidden;
     color: white;
 	width: 1000px;
 }
-#sidebar {
+.sidebar {
     width: 500px;
 	float: left;
 }
-#contentz {
+.contentz {
     display: block;
     overflow: hidden;
 	width: 500px;
