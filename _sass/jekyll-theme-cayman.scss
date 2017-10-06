@@ -141,7 +141,7 @@ a {
 }
 
 .post-container {
-    margin: 20px 20px 0 0;
+    margin: 100px 20px 0 0;
     overflow: auto
 }
 .post-thumb {
@@ -149,10 +149,11 @@ a {
 }
 .post-thumb img {
     display: block;
-	width: 450px
+	width: 400px
 }
 .post-content {
-    margin-left: 210px
+    margin-left: 410px;
+	width: 400px
 }
 
 .main-content {
