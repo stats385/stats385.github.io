@@ -144,7 +144,7 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
 
-  width: 1000px;
+  word-wrap: break-word;
   
   @include large {
     font-size: 1.25rem;
