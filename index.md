@@ -25,12 +25,12 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/bruno_olshausen.jpg">
+<img src="assets/img/ankit_patel.jpeg">
 </div>
 <div class="card">
-<a class="talkdate" href="./olshausen_lecture">Wednesday, 10/18/2017</a> <br>
-<span class="speaker">Bruno Olshausen</span> <br>
-<span class="speakerposition">UC Berkeley</span>
+<a class="talkdate" href="./patel_lecture">Wednesday, 10/18/2017</a> <br>
+<span class="speaker">Ankit Patel</span> <br>
+<span class="speakerposition">Baylor College of Medicine & Rice University</span>
 </div>
 </div>
 ---
@@ -78,7 +78,16 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 ---
-
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/bruno_olshausen.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./olshausen_lecture">Wednesday, 11/22/2017</a> <br>
+<span class="speaker">Bruno Olshausen</span> <br>
+<span class="speakerposition">UC Berkeley</span>
+</div>
+</div>
 
 ## [Basic information about deep learning](basicinfo)    
 
