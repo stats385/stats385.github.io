@@ -13,9 +13,11 @@ Since backpropagation had not yet been applied for training neural nets at the t
 <a href="https://ml4a.github.io/ml4a/convnets/"> source </a>
 </p>
 
+<br>
+
 <strong><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"> LeNet-5 </a></strong>
 
-<img style="float: right; width: 600px;" src="/assets/img/lenet5.png">
+<img style="float: right; width: 500px;" src="/assets/img/lenet5.png">
 
 <p align="justify">
 A pioneering digit classification neural network by LeCun et. al.
