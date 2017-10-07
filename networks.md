@@ -22,7 +22,7 @@ The network was composed of three types layers: convolution, pooling and non-lin
 </p>
 
 ![LeNet](/assets/img/lenet5.png)
-[![LeNet demo from 1993](<img style="float: right; width: 350px;" src="https://img.youtube.com/vi/FwFduRA_L6Q/hqdefault.jpg">)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
+[<img style="float: right; width: 350px;" src="https://img.youtube.com/vi/FwFduRA_L6Q/hqdefault.jpg">](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
 
 <strong><a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> AlexNet </a></strong>
 <p align="justify">
