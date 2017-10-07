@@ -17,7 +17,7 @@ Since backpropagation had not yet been applied for training neural nets at the t
 
 <strong><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"> LeNet-5 </a></strong>
 
-<img style="float: right; width: 500px;" src="/assets/img/lenet5.png">
+<img style="float: right; width: 550px;" src="/assets/img/lenet5.png">
 
 <p align="justify">
 A pioneering digit classification neural network by LeCun et. al.
@@ -42,7 +42,7 @@ All the convolutional and fully connected layers were followed by the ReLU nonli
 
 <strong><a href="https://arxiv.org/pdf/1409.1556.pdf"> VGGNet </a></strong>
 
-<img style="float: right; width: 500px;" src="/assets/img/imagenet_vgg16.png">
+<img style="float: right; width: 450px;" src="/assets/img/imagenet_vgg16.png">
 
 <p align="justify">
 A 19 layer convolutional neural network from VGG group, Oxford, that was simpler and deeper than AlexNet.
@@ -52,12 +52,13 @@ Max pooling was placed after two or three convolutions and after each pooling th
 </p>
 
 <strong><a href="https://arxiv.org/pdf/1512.03385.pdf"> ResNet </a></strong>
+
+<img style="float: right; width: 350px;" src="/assets/img/resnet.png">
+
 <p align="justify">
 Developed by Microsoft Research, ResNet won first place in ILSVRC 2015 image classification using a 152-layer network -- 8 times deeper than the VGG.
 The basic element in this architecture is the residual block, which	contains two paths between the input and the output, one of them being direct.
 This forces the network to learn the features on top of already available input, and facilitates the optimization process.
 </p>
-
-<img src="/assets/img/resnet.png" alt="ResNet" style="width: 300px;"/>
 
 [back](cheat_sheet)
