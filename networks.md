@@ -3,14 +3,15 @@ layout: default
 ---
 
 <strong><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.5982&rep=rep1&type=pdf"> Neocognitron </a></strong>
+
+<img style="float: right; width=200px;" src="/assets/img/neocognitron_fuk_1980.png">
+
 <p align="justify">
 A hierarchical multi-layered neural network, proposed by Kunihiko Fukushima in 1982.
 It has been used for handwritten character recognition and other pattern recognition tasks.
 Since backpropagation had not yet been applied for training neural nets at the time, it was limited by the lack of a training algorithm.<br />
 <a href="https://ml4a.github.io/ml4a/convnets/"> source </a>
 </p>
-
-<img style="float: right;" src="/assets/img/neocognitron_fuk_1980.png">
 
 <strong><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"> LeNet-5 </a></strong>
 <p align="justify">
