@@ -41,3 +41,5 @@ Developed by Microsoft Research, ResNet won first place in ILSVRC 2015 image cla
 The basic element in this architecture is the residual block, which	contains two paths between the input and the output, one of them being direct.
 This forces the network to learn the features on top of already available input, and facilitates the optimization process.
 </p>
+
+[back](./)

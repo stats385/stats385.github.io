@@ -31,5 +31,4 @@ To make sure that you will receive the maximum allowable reimbursement for your 
 
 
 
-[Go to course website](./)
-
+[back](./)

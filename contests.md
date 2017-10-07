@@ -7,3 +7,5 @@ layout: default
 A competition in which teams compete to obtain the highest accuracy on several computer vision tasks, such as image classification.<br />
 <a href="https://en.wikipedia.org/wiki/ImageNet"> source </a>
 </p>
+
+[back](./)

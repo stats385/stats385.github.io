@@ -342,3 +342,5 @@ Usually, the biases of a neural network are set to zero, while the weights are i
 The variance of the noise is chosen in such a way that the magnitudes of input signals does not change drastically.<br />
 <a href="https://arxiv.org/pdf/1502.01852.pdf"> source </a>
 </p>
+
+[back](./)

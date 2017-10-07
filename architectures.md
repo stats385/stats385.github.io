@@ -31,3 +31,5 @@ Feed forward neural networks are organized in layers, where information flows in
 RNNs, on the other hand, do not have to be organized in layers and directed cycles are allowed.
 This allows them to have internal memory and as a result to process sequential data.
 </p>
+
+[back](./)

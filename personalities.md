@@ -38,3 +38,5 @@ In 2011, Ng founded the Google Brain project at Google, which developed very lar
 Among its notable results was a neural network trained using deep learning algorithms on 16,000 CPU cores, that learned to recognize higher-level concepts, such as cats, after watching only YouTube videos, and without ever having been told what a "cat" is.<br />
 <a href="https://en.wikipedia.org/wiki/Andrew_Ng"> source </a>
 </p>
+
+[back](./)

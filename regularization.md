@@ -60,3 +60,5 @@ norm of every filter and using projected gradient descent to enforce the constra
 Creating additional training samples by perturbing existing ones.
 In image classification this includes randomly flipping the input, cropping subsets from it, etc.
 </p>
+
+[back](./)

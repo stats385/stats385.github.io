@@ -35,3 +35,5 @@ The function being minimized in an optimization process, such as SGD.
 <p align="justify">
 A perturbation added to the input of the network or one of the feature vectors it computes.
 </p>
+
+[back](./)
