@@ -10,13 +10,13 @@ Since backpropagation had not yet been applied for training neural nets at the t
 <a href="https://ml4a.github.io/ml4a/convnets/"> source </a>
 </p>
 
-![Neocognitron](/assets/img/neocognitron_fuk_1980.png)
+<img style="float: right;" src="/assets/img/neocognitron_fuk_1980.png">
 
 <strong><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"> LeNet-5 </a></strong>
 <p align="justify">
 A pioneering digit classification neural network by LeCun et. al.
 It was applied by several banks to recognise hand-written numbers on checks.
-The network was composed of three types layers: convolution, pooling and non-linearity.<br />
+The network was composed of three types layers: convolution, pooling and non-linearity, and was trained using the backpropagation algorithm.<br />
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network"> source </a><br />
 </p>
 
