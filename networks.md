@@ -4,7 +4,7 @@ layout: default
 
 <strong><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.5982&rep=rep1&type=pdf"> Neocognitron </a></strong>
 
-<img style="float: right; width: 400px;" src="/assets/img/neocognitron_fuk_1980.png">
+<img style="float: right; width: 350px;" src="/assets/img/neocognitron_fuk_1980.png">
 
 <p align="justify">
 A hierarchical multi-layered neural network, proposed by Kunihiko Fukushima in 1982.
@@ -22,7 +22,7 @@ The network was composed of three types layers: convolution, pooling and non-lin
 </p>
 
 ![LeNet](/assets/img/lenet5.png)
-[![LeNet demo from 1993](https://img.youtube.com/vi/FwFduRA_L6Q/hqdefault.jpg)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
+[![LeNet demo from 1993](<img style="float: right; width: 350px;" src="https://img.youtube.com/vi/FwFduRA_L6Q/hqdefault.jpg">)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
 
 <strong><a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> AlexNet </a></strong>
 <p align="justify">
@@ -46,13 +46,12 @@ Max pooling was placed after two or three convolutions and after each pooling th
 <p href="https://www.cs.toronto.edu/~frossard/post/vgg16/"> source </p>
 
 <strong><a href="https://arxiv.org/pdf/1512.03385.pdf"> ResNet </a></strong>
-
-<img style="float: left; width: 400px;" src="/assets/img/resnet.png">
-
 <p align="justify">
 Developed by Microsoft Research, ResNet won first place in ILSVRC 2015 image classification using a 152-layer network -- 8 times deeper than the VGG.
 The basic element in this architecture is the residual block, which	contains two paths between the input and the output, one of them being direct.
 This forces the network to learn the features on top of already available input, and facilitates the optimization process.
 </p>
+
+<img src="/assets/img/resnet.png" alt="ResNet" style="width: 300px;"/>
 
 [back](cheat_sheet)
