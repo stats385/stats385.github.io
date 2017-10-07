@@ -26,14 +26,15 @@ The network was composed of three types layers: convolution, pooling and non-lin
 
 <strong><a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> AlexNet </a></strong>
 <p align="justify">
+
+<img style="float: right; width: 500px;" src="/assets/img/alexnet.png">
+
 A convolutional neural network, which competed in the ImageNet Large Scale Visual Recognition Challenge in 2012 and achieved a top-5 error of 15.3%, more than 10.8% ahead of the runner up.
 AlexNet was designed by Alex Krizhevsky, Geoffrey Hinton, and Ilya Sutskever.
 The network consisted of five convolutional layers, some of which were followed by max-pooling layers, and three fully-connected layers with a final 1000-way softmax.
 All the convolutional and fully connected layers were followed by the ReLU nonlinearity.<br />
 <a href="https://en.wikipedia.org/wiki/AlexNet"> source </a>
 </p>
-
-<img style="float: right; width: 500px;" src="/assets/img/alexnet.png">
 
 <strong><a href="https://arxiv.org/pdf/1409.1556.pdf"> VGGNet </a></strong>
 <p align="justify">
