@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<strong>Neocognitron</strong>
+<strong><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.5982&rep=rep1&type=pdf"> Neocognitron </a></strong>
 <p align="justify">
 A hierarchical multi-layered neural network, proposed by Kunihiko Fukushima in 1982.
 It has been used for handwritten character recognition and other pattern recognition tasks.
