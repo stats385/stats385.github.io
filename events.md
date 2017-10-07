@@ -41,4 +41,4 @@ Like ICCV and CVPR, it is considered an important conference in computer vision.
 <a href="https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)

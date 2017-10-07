@@ -61,4 +61,4 @@ Creating additional training samples by perturbing existing ones.
 In image classification this includes randomly flipping the input, cropping subsets from it, etc.
 </p>
 
-[back](./)
+[back](cheat_sheet)

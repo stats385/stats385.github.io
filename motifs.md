@@ -343,4 +343,4 @@ The variance of the noise is chosen in such a way that the magnitudes of input s
 <a href="https://arxiv.org/pdf/1502.01852.pdf"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)

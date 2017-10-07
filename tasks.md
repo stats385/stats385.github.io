@@ -24,4 +24,4 @@ A sub-field of computational linguistics that investigates the use of software t
 <a href="https://en.wikipedia.org/wiki/Machine_translation"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)

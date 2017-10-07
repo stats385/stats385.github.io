@@ -42,4 +42,4 @@ The basic element in this architecture is the residual block, which	contains two
 This forces the network to learn the features on top of already available input, and facilitates the optimization process.
 </p>
 
-[back](./)
+[back](cheat_sheet)

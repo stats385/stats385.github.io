@@ -8,4 +8,4 @@ A competition in which teams compete to obtain the highest accuracy on several c
 <a href="https://en.wikipedia.org/wiki/ImageNet"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)

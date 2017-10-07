@@ -20,4 +20,4 @@ A large image database that has over ten million URLs of images that were hand-a
 <a href="https://en.wikipedia.org/wiki/ImageNet"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)

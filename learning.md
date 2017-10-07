@@ -36,4 +36,4 @@ The function being minimized in an optimization process, such as SGD.
 A perturbation added to the input of the network or one of the feature vectors it computes.
 </p>
 
-[back](./)
+[back](cheat_sheet)

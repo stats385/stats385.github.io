@@ -39,4 +39,4 @@ Among its notable results was a neural network trained using deep learning algor
 <a href="https://en.wikipedia.org/wiki/Andrew_Ng"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)

@@ -34,4 +34,4 @@ Among other topics, its researchers work on the topic of learning in machines an
 <a href="https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research"> source </a>
 </p>
 
-[back](./)
+[back](cheat_sheet)
