@@ -42,7 +42,7 @@ Max pooling was placed after two or three convolutions and after each pooling th
 </p>
 
 ![VGGNet](/assets/img/imagenet_vgg16.png)
-<a href="https://www.cs.toronto.edu/~frossard/post/vgg16/"> source </a>
+<p href="https://www.cs.toronto.edu/~frossard/post/vgg16/"> source </p>
 
 <strong><a href="https://arxiv.org/pdf/1512.03385.pdf"> ResNet </a></strong>
 <p align="justify">
@@ -51,6 +51,6 @@ The basic element in this architecture is the residual block, which	contains two
 This forces the network to learn the features on top of already available input, and facilitates the optimization process.
 </p>
 
-![ResNet](/assets/img/resnet.png)
+<img src="/assets/img/resnet.png" alt="ResNet" style="width: 200px;"/>
 
 [back](cheat_sheet)
