@@ -14,6 +14,9 @@ Since backpropagation had not yet been applied for training neural nets at the t
 </p>
 
 <strong><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"> LeNet-5 </a></strong>
+
+<img style="float: right; width: 600px;" src="/assets/img/lenet5.png">
+
 <p align="justify">
 A pioneering digit classification neural network by LeCun et. al.
 It was applied by several banks to recognise hand-written numbers on checks.
@@ -21,8 +24,7 @@ The network was composed of three types layers: convolution, pooling and non-lin
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network"> source </a><br />
 </p>
 
-![LeNet](/assets/img/lenet5.png)
-[![LeNet demo from 1993](https://img.youtube.com/vi/FwFduRA_L6Q/hqdefault.jpg)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
+[![LeNet demo from 1993](https://img.youtube.com/vi/FwFduRA_L6Q/default.jpg)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
 
 <strong><a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> AlexNet </a></strong>
 <p align="justify">
