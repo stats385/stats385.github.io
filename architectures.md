@@ -32,4 +32,4 @@ RNNs, on the other hand, do not have to be organized in layers and directed cycl
 This allows them to have internal memory and as a result to process sequential data.
 </p>
 
-[back](./)
+[back](cheat_sheet)
