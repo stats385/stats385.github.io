@@ -42,7 +42,7 @@ All the convolutional and fully connected layers were followed by the ReLU nonli
 
 <strong><a href="https://arxiv.org/pdf/1409.1556.pdf"> VGGNet </a></strong>
 
-<img style="float: right; width: 450px;" src="/assets/img/imagenet_vgg16.png">
+<img style="float: right; width: 350px;" src="/assets/img/imagenet_vgg16.png">
 
 <p align="justify">
 A 19 layer convolutional neural network from VGG group, Oxford, that was simpler and deeper than AlexNet.
@@ -53,7 +53,7 @@ Max pooling was placed after two or three convolutions and after each pooling th
 
 <strong><a href="https://arxiv.org/pdf/1512.03385.pdf"> ResNet </a></strong>
 
-<img style="float: right; width: 350px;" src="/assets/img/resnet.png">
+<img style="float: left; width: 300px;" src="/assets/img/resnet.png">
 
 <p align="justify">
 Developed by Microsoft Research, ResNet won first place in ILSVRC 2015 image classification using a 152-layer network -- 8 times deeper than the VGG.
