@@ -4,7 +4,7 @@ layout: default
 
 <strong><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.5982&rep=rep1&type=pdf"> Neocognitron </a></strong>
 
-<img style="float: right; width: 500px;" src="/assets/img/neocognitron_fuk_1980.png">
+<img style="float: right; width: 400px;" src="/assets/img/neocognitron_fuk_1980.png">
 
 <p align="justify">
 A hierarchical multi-layered neural network, proposed by Kunihiko Fukushima in 1982.
@@ -22,7 +22,7 @@ The network was composed of three types layers: convolution, pooling and non-lin
 </p>
 
 ![LeNet](/assets/img/lenet5.png)
-[![LeNet demo from 1993](https://img.youtube.com/vi/FwFduRA_L6Q/default.jpg)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
+[![LeNet demo from 1993](https://img.youtube.com/vi/FwFduRA_L6Q/hqdefault.jpg)](https://www.youtube.com/watch?v=FwFduRA_L6Q "LeNet")
 
 <strong><a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> AlexNet </a></strong>
 <p align="justify">
@@ -33,7 +33,7 @@ All the convolutional and fully connected layers were followed by the ReLU nonli
 <a href="https://en.wikipedia.org/wiki/AlexNet"> source </a>
 </p>
 
-![AlexNet](/assets/img/alexnet.png)
+<img style="float: right; width: 500px;" src="/assets/img/alexnet.png">
 
 <strong><a href="https://arxiv.org/pdf/1409.1556.pdf"> VGGNet </a></strong>
 <p align="justify">
@@ -52,6 +52,6 @@ The basic element in this architecture is the residual block, which	contains two
 This forces the network to learn the features on top of already available input, and facilitates the optimization process.
 </p>
 
-<img src="/assets/img/resnet.png" alt="ResNet" style="width: 200px;"/>
+<img src="/assets/img/resnet.png" alt="ResNet" style="width: 400px;"/>
 
 [back](cheat_sheet)
