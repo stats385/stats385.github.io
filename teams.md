@@ -4,7 +4,7 @@ layout: default
 
 <strong><a href="https://research.google.com/teams/brain/"> Google brain </a></strong>
 
-<img style="float: right; width: 150px; margin-left: 20px" src="/assets/img/googlebrain.jpg">
+<img style="float: left; width: 150px; margin-right: 20px" src="/assets/img/googlebrain.jpg">
 
 <p align="justify">
 A deep learning artificial intelligence research project at Google.
@@ -16,7 +16,7 @@ It combines open-ended machine learning research with system engineering and Goo
 
 <strong><a href="https://deepmind.com/"> Deepmind </a></strong>
 
-<img style="float: left; width: 150px; margin-right: 20px" src="/assets/img/deepmind.jpg">
+<img style="float: right; width: 250px; margin-left: 20px" src="/assets/img/deepmind.jpg">
 
 <p align="justify">
 A British artificial intelligence company founded in September 2010 and acquired by Google in 2014.
@@ -29,7 +29,7 @@ The company made headlines in 2016 after its AlphaGo program beat a human profes
 
 <strong><a href="https://research.fb.com/category/facebook-ai-research-fair/"> Facebook AI research (FAIR) </a></strong>
 
-<img style="float: right; width: 150px; margin-left: 20px" src="/assets/img/fair.jpg">
+<img style="float: left; width: 150px; margin-right: 20px" src="/assets/img/fair.jpg">
 
 <p align="justify">
 An artificial intelligence research group in Facebook, led by Yann Lecun.
