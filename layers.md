@@ -58,12 +58,20 @@ of the d-th filter and the padded input.<br />
 </p>
 
 <strong>Stride</strong>
+
+<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/stride.png">
+
 <p align="justify">
 The amount by which a filter shifts spatially when convolving it with a feature vector.<br />
 <a href="http://cs231n.github.io/convolutional-networks/"> source </a>
+<br>
+<a href="https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/"> image source </a>
 </p>
 
 <strong>Dilation</strong>
+
+<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/dilation.png">
+
 <p align="justify">
 A filter is dilated by a factor
 
@@ -75,6 +83,8 @@ by inserting in every one of its channels independently
 
 zeros between the filter elements.<br />
 <a href="http://cs231n.github.io/convolutional-networks/"> source </a>
+<br>
+<a href="https://www.quora.com/What-is-the-difference-between-dilated-convolution-and-convolution+stride"> image source </a>
 </p>
 
 <strong>Fully connected (FC) layer</strong>
@@ -157,6 +167,11 @@ The pooling resizes independently every channel of the input feature vector by a
 <p align="justify">
 Picks the maximal value from every neighbourhood.
 </p>
+
+
+<img style="width: 400px;" src="/assets/img/pooling.jpg">
+
+<a href="https://www.embedded-vision.com/platinum-members/cadence/embedded-vision-training/documents/pages/neuralnetworksimagerecognition"> image source </a>
 
 <strong>Average pooling</strong>
 <p align="justify">
