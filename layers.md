@@ -128,6 +128,9 @@ In this case, again, the convolution is done over a single spatial location and 
 </p>
 
 <strong>Pooling layer</strong>
+
+<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/pooling.jpg">
+
 <p align="justify">
 Accepts as input:
 <ul style="list-style-type:circle">
@@ -166,12 +169,6 @@ The pooling resizes independently every channel of the input feature vector by a
 <a href="http://www.codecogs.com/eqnedit.php?latex=F&space;\times&space;F" target="_blank"><img src="http://latex.codecogs.com/gif.latex?F&space;\times&space;F" title="F \times F" /></a>
 
 , with a stride
-
-
-
-<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/pooling.jpg">
-
-
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=S" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S" title="S" /></a>
 
