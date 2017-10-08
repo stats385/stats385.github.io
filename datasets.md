@@ -25,6 +25,9 @@ There are 50000 training images and 10000 test images.<br />
 
 <a href="http://cs231n.github.io/classification/"> image source </a>
 
+<br>
+<br>
+
 <strong><a href="http://www.image-net.org/"> ImageNet </a></strong>
 
 <img style="float: right; width: 600px; margin:0px 20px" src="/assets/img/imagenet.jpeg">
