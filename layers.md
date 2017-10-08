@@ -216,3 +216,5 @@ The purpose of this layer is to ease the optimization process.
 Takes the output of the classifier, applies exponent on the score assigned to each class and then normalizes the result to unit sum.
 The result can be interpreted as a vector of probabilities for the different classes.
 </p>
+
+[back](motifs)

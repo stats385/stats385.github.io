@@ -54,3 +54,5 @@ is the number of channels and
 <p align="justify">
 A group of consecutive entries in a two-dimensional signal that has a rectangular or a square shape.
 </p>
+
+[back](motifs)
