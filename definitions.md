@@ -9,7 +9,7 @@ The number of layers in the network.
 
 <strong>Feature vector / representation / volume</strong>
 
-<img style="float: right; width: 550px; margin-left: 20px" src="/assets/img/depth.jpeg">
+<img style="float: right; width: 400px; margin-left: 20px" src="/assets/img/depth.jpeg">
 
 <p align="justify">
 A three dimensional tensor of size
