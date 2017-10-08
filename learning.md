@@ -4,7 +4,7 @@ layout: default
 
 <strong>Gradient descent</strong>
 
-<img style="float: left; width: 450px;" src="/assets/img/grad_descent.png">
+<img style="float: right; width: 450px;" src="/assets/img/grad_descent.png">
 
 <p align="justify">
 To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient of the function at the current point.<br />
@@ -14,6 +14,8 @@ To find a local minimum of a function using gradient descent, one takes steps pr
 
 <a href="https://github.com/rasbt/python-machine-learning-book"> image source </a>
 </p>
+
+<br>
 
 <strong>Stochastic gradient descent (SGD)</strong>
 <p align="justify">
