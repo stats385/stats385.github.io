@@ -15,10 +15,11 @@ The weights in the convolutional layers are shared, which means that the same fi
 
 <strong>Deconvolutional networks</strong>
 
+<img style="float: right; width: 550px;" src="/assets/img/conv_deconv.png">
+
 <p align="justify">
 A generative network that is a special kind of convolutional network that uses transpose convolutions, also known as a deconvolutional layers.
 
-<img style="width: 550px;" src="/assets/img/conv_deconv.png">
 <a href="https://arxiv.org/pdf/1505.04366.pdf"> image source </a><br />
 
 </p>
