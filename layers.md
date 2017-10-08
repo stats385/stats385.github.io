@@ -4,7 +4,7 @@ layout: default
 
 <strong>Convolutional (Conv) layer</strong>
 
-<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/conv.jpeg">
+<img style="float: right; width: 400px; margin:0px 20px" src="/assets/img/conv.jpeg">
 
 <p align="justify">
 Accepts as input:<br />
@@ -70,6 +70,8 @@ The amount by which a filter shifts spatially when convolving it with a feature 
 <br>
 <a href="https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/"> image source </a>
 </p>
+
+<br>
 
 <strong>Dilation</strong>
 
@@ -172,7 +174,7 @@ The pooling resizes independently every channel of the input feature vector by a
 
 <p align="justify">
 Picks the maximal value from every neighbourhood.
-
+<br>
 <a href="https://www.embedded-vision.com/platinum-members/cadence/embedded-vision-training/documents/pages/neuralnetworksimagerecognition"> image source </a>
 </p>
 
