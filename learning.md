@@ -38,6 +38,8 @@ An algorithm, relying on an iterative application of the chain rule, for computi
 <a href="https://www.researchgate.net/figure/241741756_fig2_Figure-2-Back-propagation-multilayer-ANN-with-one-hidden-layer"> image source </a>
 </p>
 
+<br>
+
 <strong>Goal function</strong>
 <p align="justify">
 The function being minimized in an optimization process, such as SGD.
@@ -45,7 +47,7 @@ The function being minimized in an optimization process, such as SGD.
 
 <strong>Added noise</strong>
 
-<img style="float: right; width: 450px;" src="/assets/img/noisy.png">
+<img style="float: right; width: 200px;" src="/assets/img/noisy.png">
 
 <p align="justify">
 A perturbation added to the input of the network or one of the feature vectors it computes.
