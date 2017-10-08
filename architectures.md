@@ -20,6 +20,8 @@ The weights in the convolutional layers are shared, which means that the same fi
 <p align="justify">
 A generative network that is a special kind of convolutional network that uses transpose convolutions, also known as a deconvolutional layers.
 
+<br>
+
 <a href="https://arxiv.org/pdf/1505.04366.pdf"> image source </a><br />
 
 </p>
@@ -48,6 +50,9 @@ One can convert an RNN into a regular feed forward neural network by "unfolding"
 </p>
 
 <img style="width: 550px;" src="/assets/img/rnn.png">
+
+<br>
+
 <a href="https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial"> image source </a><br />
 
 [back](cheat_sheet)
