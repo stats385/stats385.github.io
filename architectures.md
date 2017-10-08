@@ -27,7 +27,7 @@ A generative network that is a special kind of convolutional network that uses t
 <strong><a href="https://arxiv.org/pdf/1406.2661.pdf"> Generative Adversarial Networks (GAN) </a></strong>
 <p align="justify">
 
-<img style="float: right; width: 150px;" src="/assets/img/gan2.png">
+<img style="float: right; width: 250px;" src="/assets/img/gan2.png">
 
 A system of two neural networks, introduced by Ian Goodfellow et al. in 2014, contesting with each other in a zero-sum game framework.
 The first is a deconvolutional network, G, that generates signals.
