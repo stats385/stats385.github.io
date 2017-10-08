@@ -27,7 +27,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <div class="card">
 <a class="talkdate" href="./patel_lecture">Wednesday, 10/18/2017</a> <br>
 <span class="speaker">Ankit Patel</span> <br>
-<span class="speakerposition">Baylor College of Medicine & Rice University</span>
+<span class="speakerposition">Rice University and BCM</span>
 </div>
 </div>
 ---

@@ -14,7 +14,7 @@ layout: default
 - [Matconvnet](http://www.vlfeat.org/matconvnet/)
 - [Keras](https://keras.io/)
 - [Caffe](http://caffe.berkeleyvision.org/)
-- [Thenao](http://www.deeplearning.net/software/theano/)
+- [Theano](http://www.deeplearning.net/software/theano/)
 
 ## Books
 - [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio and Courville, 2016. 
