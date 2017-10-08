@@ -50,7 +50,7 @@ The function being minimized in an optimization process, such as SGD.
 
 <strong>Added noise</strong>
 
-<img style="float: right; width: 200px; margin:0px 10px" src="/assets/img/noisy.png">
+<img style="float: right; width: 200px; margin:0px 20px" src="/assets/img/noisy.png">
 
 <p align="justify">
 A perturbation added to the input of the network or one of the feature vectors it computes.
