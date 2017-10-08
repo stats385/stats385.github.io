@@ -8,4 +8,8 @@ A competition in which teams compete to obtain the highest accuracy on several c
 <a href="https://en.wikipedia.org/wiki/ImageNet"> source </a>
 </p>
 
+<img style="float: right; width: 500px;" src="/assets/img/ilsvrc.jpg">
+
+<a href="https://topsy.one/hashtag.php?q=ilsvrc"> image source </a>
+
 [back](cheat_sheet)
