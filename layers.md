@@ -174,13 +174,13 @@ The pooling resizes independently every channel of the input feature vector by a
 
 .<br />
 <a href="http://cs231n.github.io/convolutional-networks/"> source </a>
+<br>
+<a href="https://www.embedded-vision.com/platinum-members/cadence/embedded-vision-training/documents/pages/neuralnetworksimagerecognition"> image source </a>
 </p>
 
 <strong>Max pooling</strong>
 <p align="justify">
 Picks the maximal value from every neighbourhood.
-<br>
-<a href="https://www.embedded-vision.com/platinum-members/cadence/embedded-vision-training/documents/pages/neuralnetworksimagerecognition"> image source </a>
 </p>
 
 <strong>Average pooling</strong>
