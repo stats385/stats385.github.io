@@ -27,7 +27,7 @@ There are 50000 training images and 10000 test images.<br />
 
 <strong><a href="http://www.image-net.org/"> ImageNet </a></strong>
 
-<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/imagenet.jpeg">
+<img style="float: right; width: 600px; margin:0px 20px" src="/assets/img/imagenet.jpeg">
 
 <p align="justify">
 A large image database that has over ten million URLs of images that were hand-annotated using Amazon Mechanical Turk to indicate what objects are pictured.<br />
