@@ -4,7 +4,7 @@ layout: default
 
 <strong>Convolutional (Conv) layer</strong>
 
-<img style="float: right; width: 400px; margin:0px 20px" src="/assets/img/conv.jpeg">
+<img style="float: right; width: 300px; margin:0px 20px" src="/assets/img/conv.jpeg">
 
 <p align="justify">
 Accepts as input:<br />
