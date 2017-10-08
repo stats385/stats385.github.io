@@ -4,7 +4,11 @@ layout: default
 
 ## [Definitions](definitions)
 
-## [Layers](layers)
+## [Weight Layers](weightlayers)
+
+## [Pooling Layers](poolinglayers)
+
+## [Other Layers](otherlayers)
 
 ## [Nonlinearities](nonlinearities)
 
