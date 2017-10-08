@@ -38,6 +38,8 @@ Like the sigmoid neuron, its activations saturate, but unlike the sigmoid neuron
 <a href="http://www.20sim.com/webhelp/language_reference_functions_tanh.php"> image source </a>
 </p>
 
+<br>
+
 <strong>ReLu</strong>
 
 <img style="float: right; width: 350px; margin-left: 20px" src="/assets/img/relu.png">
@@ -71,5 +73,5 @@ A possible fix to the dead filter problem is to define ReLU with a small slope i
 <br>
 <a href="https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks"> image source </a>
 </p>
-
 [back](motifs)
+
