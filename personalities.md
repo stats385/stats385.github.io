@@ -4,7 +4,7 @@ layout: default
 
 <strong><a href="http://www.cs.toronto.edu/~hinton/"> Geoff Hinton </a></strong>
 
-<img style="float: right; width: 150px; margin-left: 20px" src="/assets/img/hinton.jpg">
+<img style="float: right; width: 125px; margin-left: 20px" src="/assets/img/hinton.jpg">
 
 <p align="justify">
 A cognitive psychologist and computer scientist, most noted for his work on artificial neural networks.
@@ -17,7 +17,7 @@ He was one of the first researchers who demonstrated the use of backpropagation 
 
 <strong><a href="http://yann.lecun.com/"> Yann Lecun </a></strong>
 
-<img style="float: left; width: 150px; margin-right: 20px" src="/assets/img/lecun.jpg">
+<img style="float: left; width: 175px; margin-right: 20px" src="/assets/img/lecun.jpg">
 
 <p align="justify">
 A computer scientist with contributions in machine learning, computer vision, mobile robotics and computational neuroscience.
@@ -29,7 +29,7 @@ He is well known for his work on optical character recognition and computer visi
 
 <strong><a href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/"> Yoshua Bengio </a></strong>
 
-<img style="float: right; width: 150px; margin-left: 20px" src="/assets/img/bengio.jpg">
+<img style="float: right; width: 175px; margin-left: 20px" src="/assets/img/bengio.jpg">
 
 <p align="justify">
 A computer scientist, most noted for his work on artificial neural networks and deep learning.
