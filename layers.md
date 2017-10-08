@@ -93,6 +93,9 @@ zeros between the filter elements.<br />
 </p>
 
 <strong>Fully connected (FC) layer</strong>
+
+<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/fc.png">
+
 <p align="justify">
 In practice, FC layers are implemented using a convolutional layer.
 To see how this might be possible, note that when an input feature vector of size 
@@ -120,6 +123,8 @@ More over, when this feature vector of size 1x1xD_2 is convolved with another fi
 .
 In this case, again, the convolution is done over a single spatial location and therefore equivalent to a fully connected layer.<br />
 <a href="http://cs231n.github.io/convolutional-networks/"> source </a>
+<br>
+<a href="https://www.quora.com/What-is-the-difference-between-dilated-convolution-and-convolution+stride"> image source </a>
 </p>
 
 <strong>Pooling layer</strong>
