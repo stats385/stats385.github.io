@@ -29,7 +29,7 @@ The scalar by which the negative of the gradient is multiplied in gradient desce
 
 <strong>Backpropagation</strong>
 
-<img style="float: left; width: 450px;" src="https://www.researchgate.net/figure/241741756_fig2_Figure-2-Back-propagation-multilayer-ANN-with-one-hidden-layer">
+<img style="float: left	; width: 450px;" src="/assets/img/backprop.png">
 
 <p align="justify">
 An algorithm, relying on an iterative application of the chain rule, for computing efficiently the derivative of a neural network with respect to all of its parameters and feature vectors.<br />
@@ -44,8 +44,12 @@ The function being minimized in an optimization process, such as SGD.
 </p>
 
 <strong>Added noise</strong>
+
+<img style="float: right; width: 450px;" src="/assets/img/noisy.png">
+
 <p align="justify">
 A perturbation added to the input of the network or one of the feature vectors it computes.
+<a href="https://people.sc.fsu.edu/~jburkardt/m_src/image_denoise/image_denoise.html"> image source </a>
 </p>
 
 [back](cheat_sheet)
