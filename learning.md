@@ -59,7 +59,8 @@ The function being minimized in an optimization process, such as SGD.
 The input to a neural network is often mean subtracted, contrast normalized and whitened.
 </p>
 
-<img style="width: 500px;" src="/assets/img/preproc.png">
+<img style="width: 600px;" src="/assets/img/preproc.png">
+<br>
 <a href="http://wangxinliu.com/machine%20learning/machine%20learning%20basic/NN3/"> image source </a>
 
 <strong>One-hot vector</strong>
@@ -72,7 +73,6 @@ A vector containing one in a single entry and zero elsewhere.
 <a href="https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/"> image source </a>
 </p>
 
-<br>
 <br>
 <br>
 
