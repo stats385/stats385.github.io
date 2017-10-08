@@ -190,7 +190,7 @@ Computes the average of every neighbourhood.
 
 <strong>Linear classifier</strong>
 
-<img style="float: left; width: 400px; margin-right:0px 20px" src="/assets/img/linearclassifier.jpeg">
+<img style="float: left; width: 400px; margin-right:0px 30px" src="/assets/img/linearclassifier.jpeg">
 
 <p align="justify">
 This is implemented in practice by employing a fully connected layer of size
@@ -215,6 +215,7 @@ classifiers, one for each class.
 <a href="http://cs231n.github.io/linear-classify/"> image source </a>
 </p>
 
+<br>
 <br>
 <br>
 
