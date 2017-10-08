@@ -59,7 +59,7 @@ The function being minimized in an optimization process, such as SGD.
 The input to a neural network is often mean subtracted, contrast normalized and whitened.
 </p>
 
-<img style="width: 600px;" src="/assets/img/preproc.png">
+<img style="width: 700px;" src="/assets/img/preproc.png">
 <br>
 <a href="http://wangxinliu.com/machine%20learning/machine%20learning%20basic/NN3/"> image source </a>
 

@@ -50,9 +50,19 @@ is the number of channels and
  is the number of filters.
 </p>
 
+<img style="width: 700px;" src="/assets/img/filters.png">
+<br>
+<a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> image source </a>
+
+
 <strong>Neighbourhood</strong>
+
+<img style="float: right; width: 300px; margin-left: 20px" src="/assets/img/neighborhood.png">
+
 <p align="justify">
 A group of consecutive entries in a two-dimensional signal that has a rectangular or a square shape.
+
+<a href="http://what-when-how.com/introduction-to-video-and-image-processing/neighborhood-processing-introduction-to-video-and-image-processing-part-1/"> image source </a>
 </p>
 
 [back](motifs)
