@@ -4,7 +4,7 @@ layout: default
 
 <strong>Gradient descent</strong>
 
-<img style="float: left; width: 450px;" src="/assets/img/grad_descent.png">
+<img style="float: right; width: 450px;" src="/assets/img/grad_descent.png">
 
 <p align="justify">
 To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient of the function at the current point.<br />
@@ -29,7 +29,7 @@ The scalar by which the negative of the gradient is multiplied in gradient desce
 
 <strong>Backpropagation</strong>
 
-<img style="float: right; width: 350px;" src="/assets/img/backprop.png">
+<img style="float: left; width: 350px;" src="/assets/img/backprop.png">
 
 <p align="justify">
 An algorithm, relying on an iterative application of the chain rule, for computing efficiently the derivative of a neural network with respect to all of its parameters and feature vectors.<br />
@@ -50,7 +50,7 @@ The function being minimized in an optimization process, such as SGD.
 
 <strong>Added noise</strong>
 
-<img style="float: right; width: 250px;" src="/assets/img/noisy.png">
+<img style="float: left; width: 250px;" src="/assets/img/noisy.png">
 
 <p align="justify">
 A perturbation added to the input of the network or one of the feature vectors it computes.
