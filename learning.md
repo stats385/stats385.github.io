@@ -9,9 +9,7 @@ layout: default
 <p align="justify">
 To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient of the function at the current point.<br />
 <a href="https://en.wikipedia.org/wiki/Gradient_descent"> source </a>
-
 <br>
-
 <a href="https://github.com/rasbt/python-machine-learning-book"> image source </a>
 </p>
 
@@ -30,9 +28,14 @@ The scalar by which the negative of the gradient is multiplied in gradient desce
 </p>
 
 <strong>Backpropagation</strong>
+
+<img style="float: left; width: 450px;" src="https://www.researchgate.net/figure/241741756_fig2_Figure-2-Back-propagation-multilayer-ANN-with-one-hidden-layer">
+
 <p align="justify">
 An algorithm, relying on an iterative application of the chain rule, for computing efficiently the derivative of a neural network with respect to all of its parameters and feature vectors.<br />
 <a href="https://en.wikipedia.org/wiki/Backpropagation"> source </a>
+<br>
+<a href="https://www.researchgate.net/figure/241741756_fig2_Figure-2-Back-propagation-multilayer-ANN-with-one-hidden-layer"> image source </a>
 </p>
 
 <strong>Goal function</strong>
