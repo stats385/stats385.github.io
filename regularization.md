@@ -3,6 +3,9 @@ layout: default
 ---
 
 <strong><a href="http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf"> Dropout </a></strong>
+
+<img style="float: right; width: 250px;" src="/assets/img/dropout.jpeg">
+
 <p align="justify">
 Accepts as input:
 <ul style="list-style-type:circle">
