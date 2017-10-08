@@ -55,22 +55,26 @@ The function being minimized in an optimization process, such as SGD.
 
 <strong>Data preprocessing</strong>
 
-<img style="float: right; width: 200px; margin:0px 20px" src="/assets/img/preproc.png">
-
 <p align="justify">
 The input to a neural network is often mean subtracted, contrast normalized and whitened.
-<a href="http://wangxinliu.com/machine%20learning/machine%20learning%20basic/NN3/"> image source </a>
 </p>
+
+<img style="width: 500px;" src="/assets/img/preproc.png">
+<a href="http://wangxinliu.com/machine%20learning/machine%20learning%20basic/NN3/"> image source </a>
 
 <strong>One-hot vector</strong>
 
-<img style="float: left; width: 300px; margin-right: 20px" src="/assets/img/onehotvec.png">
+<img style="float: left; width: 200px; margin-right: 20px" src="/assets/img/onehotvec.png">
 
 <p align="justify">
 A vector containing one in a single entry and zero elsewhere.
 <br>
 <a href="https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/"> image source </a>
 </p>
+
+<br>
+<br>
+<br>
 
 <strong>Cross entropy</strong>
 <p align="justify">
