@@ -189,6 +189,9 @@ Computes the average of every neighbourhood.
 </p>
 
 <strong>Linear classifier</strong>
+
+<img style="float: left; width: 300px; margin-right:0px 20px" src="/assets/img/linearclassifier.jpeg">
+
 <p align="justify">
 This is implemented in practice by employing a fully connected layer of size
 
@@ -208,6 +211,8 @@ corresponds to a certain class and there are
 <a href="http://www.codecogs.com/eqnedit.php?latex=C" target="_blank"><img src="http://latex.codecogs.com/gif.latex?C" title="C" /></a>
 
 classifiers, one for each class.
+<br>
+<a href="http://cs231n.github.io/linear-classify/"> image source </a>
 </p>
 
 <strong>Batch normalization</strong>
