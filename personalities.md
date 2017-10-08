@@ -4,7 +4,7 @@ layout: default
 
 <strong><a href="http://www.cs.toronto.edu/~hinton/"> Geoff Hinton </a></strong>
 
-<img style="float: right; width: 125px; margin-left: 20px" src="/assets/img/hinton.jpg">
+<img style="float: right; width: 150px; margin-left: 20px" src="/assets/img/hinton.jpg">
 
 <p align="justify">
 A cognitive psychologist and computer scientist, most noted for his work on artificial neural networks.
@@ -12,8 +12,9 @@ He was one of the first researchers who demonstrated the use of backpropagation 
 <a href="https://en.wikipedia.org/wiki/Geoffrey_Hinton"> source </a>
 <br>
 <a href="http://www.cs.toronto.edu/~hinton/"> image source </a>
-
 </p>
+
+<br>
 
 <strong><a href="http://yann.lecun.com/"> Yann Lecun </a></strong>
 
@@ -26,6 +27,8 @@ He is well known for his work on optical character recognition and computer visi
 <br>
 <a href="https://research.fb.com/people/lecun-yann/"> image source </a>
 </p>
+
+<br>
 
 <strong><a href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/"> Yoshua Bengio </a></strong>
 
@@ -54,7 +57,7 @@ She is the inventor of ImageNet and the ImageNet Challenge, a critical large-sca
 
 <strong><a href="http://www.andrewng.org/"> Andrew Ng </a></strong>
 
-<img style="float: right; width: 150px; margin-left: 20px" src="/assets/img/ng.jpeg">
+<img style="float: right; width: 175px; margin-left: 20px" src="/assets/img/ng.jpeg">
 
 <p align="justify">
 A computer scientist, whose research is on machine learning and AI, with an emphasis on deep learning.
