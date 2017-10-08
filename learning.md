@@ -22,6 +22,13 @@ The true gradient is approximated by the gradient of a randomly chosen single fu
 <a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent"> source </a>
 </p>
 
+<strong>Initialization of a network</strong>
+<p align="justify">
+Usually, the biases of a neural network are set to zero, while the weights are initialized with independent and identically distributed zero-mean Gaussian noise.
+The variance of the noise is chosen in such a way that the magnitudes of input signals does not change drastically.<br />
+<a href="https://arxiv.org/pdf/1502.01852.pdf"> source </a>
+</p>
+
 <strong>Learning rate</strong>
 <p align="justify">
 The scalar by which the negative of the gradient is multiplied in gradient descent.
@@ -46,6 +53,22 @@ An algorithm, relying on an iterative application of the chain rule, for computi
 <strong>Goal function</strong>
 <p align="justify">
 The function being minimized in an optimization process, such as SGD.
+</p>
+
+<strong>Data preprocessing</strong>
+<p align="justify">
+The input to a neural network is often mean subtracted, contrast normalized and whitened.
+</p>
+
+<strong>One-hot vector</strong>
+<p align="justify">
+A vector containing one in a single entry and zero elsewhere.
+</p>
+
+<strong>Cross entropy</strong>
+<p align="justify">
+Commonly used to quantify the difference between two probability distributions.
+In the case of neural networks, one of the distributions is the output of the softmax, while the other is a one-hot vector corresponding to the correct class.
 </p>
 
 <strong>Added noise</strong>
