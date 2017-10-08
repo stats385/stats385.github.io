@@ -13,8 +13,6 @@ To find a local minimum of a function using gradient descent, one takes steps pr
 <a href="https://github.com/rasbt/python-machine-learning-book"> image source </a>
 </p>
 
-<br>
-
 <strong>Stochastic gradient descent (SGD)</strong>
 <p align="justify">
 A stochastic approximation of the gradient descent for minimizing an objective function that is a sum of functions.
@@ -61,8 +59,13 @@ The input to a neural network is often mean subtracted, contrast normalized and 
 </p>
 
 <strong>One-hot vector</strong>
+
+<img style="float: right; width: 200px; margin-left: 20px" src="/assets/img/onehotvec.png">
+
 <p align="justify">
 A vector containing one in a single entry and zero elsewhere.
+<br>
+<a href="https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/"> image source </a>
 </p>
 
 <strong>Cross entropy</strong>
