@@ -94,7 +94,7 @@ zeros between the filter elements.<br />
 
 <strong>Fully connected (FC) layer</strong>
 
-<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/fc.png">
+<img style="float: right; width: 300px; margin:0px 20px" src="/assets/img/fc.png">
 
 <p align="justify">
 In practice, FC layers are implemented using a convolutional layer.
