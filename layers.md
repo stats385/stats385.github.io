@@ -168,10 +168,9 @@ The pooling resizes independently every channel of the input feature vector by a
 <a href="http://cs231n.github.io/convolutional-networks/"> source </a>
 </p>
 
-<strong>Max pooling</strong>
-
 <img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/pooling.jpg">
 
+<strong>Max pooling</strong>
 <p align="justify">
 Picks the maximal value from every neighbourhood.
 <br>
