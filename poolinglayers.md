@@ -62,3 +62,5 @@ Picks the maximal value from every neighbourhood.
 <p align="justify">
 Computes the average of every neighbourhood.
 </p>
+
+[back](motifs)

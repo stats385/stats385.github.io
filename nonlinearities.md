@@ -4,7 +4,7 @@ layout: default
 
 <strong>Sigmoid</strong>
 
-<img style="float: right; width: 350px; margin-left: 20px" src="/assets/img/sigmoid.png">
+<img style="float: right; width: 250px; margin-left: 20px" src="/assets/img/sigmoid.png">
 
 <p align="justify">
 The sigmoid, defined as
@@ -25,7 +25,7 @@ This is an undesirable property since it results in slow learning.
 
 <strong>Tanh</strong>
 
-<img style="float: left; width: 350px; margin-right: 20px" src="/assets/img/tanh.png">
+<img style="float: left; width: 250px; margin-right: 20px" src="/assets/img/tanh.png">
 
 <p align="justify">
 This non-linearity squashes a real-valued number to the range
@@ -42,7 +42,7 @@ Like the sigmoid neuron, its activations saturate, but unlike the sigmoid neuron
 
 <strong>ReLu</strong>
 
-<img style="float: right; width: 350px; margin-left: 20px" src="/assets/img/relu.png">
+<img style="float: right; width: 250px; margin-left: 20px" src="/assets/img/relu.png">
 
 <p align="justify">
 The most popular non-linearity in modern deep learning, partly due to its non-saturating nature, defined as
@@ -62,7 +62,7 @@ This causes backpropagation to never update the filter and eventually, due to we
 
 <strong>Leaky ReLu</strong>
 
-<img style="float: left; width: 350px; margin-right: 20px" src="/assets/img/leakyrelu.png">
+<img style="float: left; width: 250px; margin-right: 20px" src="/assets/img/leakyrelu.png">
 
 <p align="justify">
 A possible fix to the dead filter problem is to define ReLU with a small slope in the negative part, i.e.,
