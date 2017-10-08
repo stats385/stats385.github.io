@@ -167,13 +167,17 @@ The pooling resizes independently every channel of the input feature vector by a
 
 , with a stride
 
+
+
+<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/pooling.jpg">
+
+
+
 <a href="http://www.codecogs.com/eqnedit.php?latex=S" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S" title="S" /></a>
 
 .<br />
 <a href="http://cs231n.github.io/convolutional-networks/"> source </a>
 </p>
-
-<img style="float: right; width: 500px; margin:0px 20px" src="/assets/img/pooling.jpg">
 
 <strong>Max pooling</strong>
 <p align="justify">
