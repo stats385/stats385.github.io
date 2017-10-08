@@ -8,6 +8,9 @@ The number of layers in the network.
 </p>
 
 <strong>Feature vector / representation / volume</strong>
+
+<img style="float: right; width: 500px; margin-left: 20px" src="/assets/img/depth.jpeg">
+
 <p align="justify">
 A three dimensional tensor of size
 <a href="http://www.codecogs.com/eqnedit.php?latex=W&space;\times&space;H&space;\times&space;D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?W&space;\times&space;H&space;\times&space;D" title="W \times H \times D" /></a>
@@ -18,6 +21,8 @@ If there is more than one example, this becomes a four dimensional tensor of siz
 , where
 <a href="http://www.codecogs.com/eqnedit.php?latex=B" target="_blank"><img src="http://latex.codecogs.com/gif.latex?B" title="B" /></a>
 is the batch size.
+
+<a href="http://cs231n.github.io/convolutional-networks/"> image source </a>
 </p>
 
 <strong>Spatial invariant feature vector</strong>
@@ -50,14 +55,14 @@ is the number of channels and
  is the number of filters.
 </p>
 
-<img style="width: 700px;" src="/assets/img/filters.png">
+<img style="width: 500px;" src="/assets/img/filters.png">
 <br>
 <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> image source </a>
 
 
 <strong>Neighbourhood</strong>
 
-<img style="float: right; width: 300px; margin-left: 20px" src="/assets/img/neighborhood.png">
+<img style="float: right; width: 500px; margin-left: 20px" src="/assets/img/neighborhood.png">
 
 <p align="justify">
 A group of consecutive entries in a two-dimensional signal that has a rectangular or a square shape.
