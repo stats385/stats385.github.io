@@ -4,11 +4,14 @@ layout: default
 
 <strong>Gradient descent</strong>
 
-<img style="float: left; width: 450px;" src="/assets/img/grad_descent.jpeg">
+<img style="float: left; width: 450px;" src="/assets/img/grad_descent.png">
 
 <p align="justify">
 To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient of the function at the current point.<br />
 <a href="https://en.wikipedia.org/wiki/Gradient_descent"> source </a>
+
+<br>
+
 <a href="https://github.com/rasbt/python-machine-learning-book"> image source </a>
 </p>
 
