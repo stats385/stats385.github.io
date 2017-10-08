@@ -218,6 +218,7 @@ classifiers, one for each class.
 <br>
 <br>
 <br>
+<br>
 
 <strong>Batch normalization</strong>
 <p align="justify">
