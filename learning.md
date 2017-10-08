@@ -39,6 +39,9 @@ An algorithm, relying on an iterative application of the chain rule, for computi
 </p>
 
 <br>
+<br>
+<br>
+<br>
 
 <strong>Goal function</strong>
 <p align="justify">
@@ -47,10 +50,11 @@ The function being minimized in an optimization process, such as SGD.
 
 <strong>Added noise</strong>
 
-<img style="float: right; width: 200px;" src="/assets/img/noisy.png">
+<img style="float: right; width: 250px;" src="/assets/img/noisy.png">
 
 <p align="justify">
 A perturbation added to the input of the network or one of the feature vectors it computes.
+<br>
 <a href="https://people.sc.fsu.edu/~jburkardt/m_src/image_denoise/image_denoise.html"> image source </a>
 </p>
 
