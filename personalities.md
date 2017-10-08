@@ -17,7 +17,7 @@ He was one of the first researchers who demonstrated the use of backpropagation 
 
 <strong><a href="http://yann.lecun.com/"> Yann Lecun </a></strong>
 
-<img style="float: right; width: 150px; margin:0px 20px" src="/assets/img/lecun.jpg">
+<img style="float: left; width: 150px; margin:0px 20px" src="/assets/img/lecun.jpg">
 
 <p align="justify">
 A computer scientist with contributions in machine learning, computer vision, mobile robotics and computational neuroscience.
@@ -42,7 +42,7 @@ His work was crucial in advancing how deep networks are trained, how neural netw
 
 <strong><a href="http://vision.stanford.edu/feifeili/"> Fei Fei Li </a></strong>
 
-<img style="float: right; width: 150px; margin:0px 20px" src="/assets/img/feifei.jpeg">
+<img style="float: left; width: 150px; margin:0px 20px" src="/assets/img/feifei.jpeg">
 
 <p align="justify">
 A computer scientist whose main research areas are in machine learning, deep learning, computer vision and cognitive and computational neuroscience.
