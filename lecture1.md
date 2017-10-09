@@ -19,4 +19,8 @@
 
 ## [slides](./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf)
 
+![David Donoho](/assets/img/donoho.jpg)  
+
+<p align="justify"><a href="https://statweb.stanford.edu/~donoho/">David Donoho</a> David Donoho is a mathematician who has made fundamental contributions to theoretical and computational statistics, as well as to signal processing and harmonic analysis. His algorithms have contributed significantly to our understanding of the maximum entropy principle, of the structure of robust procedures, and of sparse data description.</p>
+
 [back](./)
