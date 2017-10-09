@@ -4,9 +4,33 @@ layout: titlepage
 
 For questions and concerns, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Hatef Monajemi](http://web.stanford.edu/~monajemi/) (@monajemi on GitHub) or [Vardan Papyan](http://vardanp.cswp.cs.technion.ac.il/). This class meets Wednesdays 3:00-4:20 PM at [200-002](https://campus-map.stanford.edu/?srch=200-002). If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit. 
 
+## [](#Lectures) Lectures
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/donoho.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./lecture1">Wednesday, 9/27/2017</a> <br>
+<span class="speaker">David Donoho</span> <br>
+<span class="speakerposition">Stanford</span>
+</div>
+</div>
 
 
-## [](#guest-lectures) Guest Lectures
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/donoho.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./lecture2">Wednesday, 10/4/2017</a> <br>
+<span class="speaker">David Donoho</span> <br>
+<span class="speakerposition">Stanford</span>
+</div>
+</div>
+
+
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
@@ -86,17 +110,9 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 
-## News Feed
-
-* [AI robots learning racism...](http://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-robots-artificial-intelligence-racism-sexism-prejudice-bias-language-learn-from-humans-a7683161.html)          
-* [FaceApp forced to pull 'racist' filters...](https://www.theguardian.com/technology/2017/aug/10/faceapp-forced-to-pull-racist-filters-digital-blackface)    
-* [losing a whole generation of young men to video games](http://nypost.com/2017/07/08/were-losing-a-whole-generation-of-young-men-to-video-games/)
-
 ## [Basic information about deep learning](basicinfo)    
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
-
-## [Readings](readings)    
 
 ## [Lecture slides](lecture_slides)     
 
