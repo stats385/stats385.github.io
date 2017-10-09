@@ -1,6 +1,7 @@
 <div class="abstract">   
 
 <strong>Overview of Deep Learning From a Practical Point of View</strong>
+<br>
 <strong>Readings for this lecture</strong>  
 <ol>
     <li>

@@ -1,6 +1,7 @@
 <div class="abstract">   
 
 <strong>Deep Learning Challenge. Is There Theory?</strong>
+<br>
 <strong>Readings for this lecture</strong>  
 <ol>
     <li>
