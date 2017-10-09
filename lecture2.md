@@ -34,7 +34,6 @@
     <li>
     <a href="https://www.youtube.com/watch?v=AgkfIQ4IGaM&t=99s"> Deep Visualization Toolbox </a>
     </li>
-	<li>
 </ol>
 
 </div>
