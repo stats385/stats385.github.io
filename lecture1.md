@@ -15,9 +15,10 @@
     <a href="http://nypost.com/2017/07/08/were-losing-a-whole-generation-of-young-men-to-video-games/"> Losing a whole generation of young men to video games </a>
     </li>
 </ol>
-</div>
 
 ## [slides](./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf)
+
+</div>
 
 ![David Donoho](/assets/img/donoho.jpg)  
 
