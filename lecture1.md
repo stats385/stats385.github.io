@@ -16,7 +16,7 @@
     </li>
 </ol>
 
-## [slides](./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf)
+<a href="./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf"> slides </a>
 
 </div>
 
