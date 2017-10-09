@@ -19,8 +19,23 @@
     <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf"> Visualizing and Understanding Convolutional Neural Networks </a>
     </li>
 </ol>
-</div>
+<strong>Blogs</strong>  
+<ol>
+    <li>
+    <a href="https://medium.com/towards-data-science/an-intuitive-guide-to-deep-network-architectures-65fdc477db41"> An Intuitive Guide to Deep Network Architectures </a>
+    </li>
+	<li>
+    <a href="https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba"> Neural Network Architectures </a>
+    </li>
+</ol>
+<strong>Videos</strong>  
+<ol>
+    <li>
+    <a href="https://www.youtube.com/watch?v=AgkfIQ4IGaM&t=99s"> Deep Visualization Toolbox </a>
+    </li>
+	<li>
+</ol>
 
-## [slides](./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf)
+</div>
 
 [back](./)
