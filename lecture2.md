@@ -2,6 +2,7 @@
 
 <strong>Overview of Deep Learning From a Practical Point of View</strong>
 <br>
+<br>
 <strong>Readings for this lecture</strong>  
 <ol>
     <li>
