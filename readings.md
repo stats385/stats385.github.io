@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lecture 1 -- Deep Learning Challenge. Is There Theory?
+## David Donoho -- Deep Learning Challenge. Is There Theory?
 <ol>
     <li>
     <a href="https://sinews.siam.org/Details-Page/deep-deep-trouble"> Deep deep trouble </a>
@@ -27,7 +27,7 @@ layout: default
     </li>
 </ol>
 
-## Lecture 2 -- Overview of Deep Learning From a Practical Point of View 
+## David Donoho -- Overview of Deep Learning From a Practical Point of View 
 <ol>
 	<li>
     <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
@@ -52,38 +52,69 @@ layout: default
     </li>
 </ol>
 
-## Lecture 3
+## Helmut Bolcskei
 <ol>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A mathematical theory of deep convolutional neural networks for feature extraction </a>
+    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction </a>
     </li>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy propagation in deep convolutional neural networks </a>
+    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy Propagation in Deep Convolutional Neural Networks </a>
     </li>
 	<li>
-	<a href="https://www.nari.ee.ethz.ch/commth//pubs/files/ICML2016.pdf"> Discrete deep feature extraction: A theory and new architectures </a>
+	<a href="https://www.nari.ee.ethz.ch/commth//pubs/files/ICML2016.pdf"> Discrete Deep Feature Extraction: A Theory and New Architectures </a>
 	</li>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology reduction in deep convolutional feature extraction networks </a>
+    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology Reduction in Deep Convolutional Feature Extraction Networks </a>
     </li>
 </ol>
 
+## Ankit Patel
+<ol>
+    <li>
+    <a href="https://arxiv.org/abs/1504.00641"> A Probabilistic Theory of Deep Learning </a>
+    </li>
+</ol>
+
+## Tomaso Poggio
+<ol>
+	<li>
+	<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review </a>
+	</li>
+	<li>
+	<a href="https://arxiv.org/abs/1603.00988"> Learning Functions: When is Deep Better Than Shallow </a>
+	</li>
+</ol>
+
+## Zaid Harchaoui
+
+## Jeffrey Pennington
+
+## Joan Bruna
+<ol>
+	<li>
+	<a href="https://arxiv.org/pdf/1601.04920.pdf"> Understanding Deep Convolutional Networks </a>
+	</li>
+</ol>
+
+## Bruno Olshausen
+<ol>
+	<li>
+    <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
+    </li>
+</ol>
 
 ## To be discussed and extra
+- [Convolutional Neural Networks Analyzed via Convolutional Sparse Coding](https://arxiv.org/pdf/1607.08194.pdf) by Papyan et al.
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) by Kingma and Welling
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
-- [Understanding Deep Convolutional Networks](https://arxiv.org/pdf/1601.04920.pdf) by Mallat
 - [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530) by Zhang et al.
 - [Deep Neural Networks with Random Gaussian Weights: A Universal Classification Strategy?](https://arxiv.org/abs/1504.08291) by Giryes et al.
 - [Robust Large Margin Deep Neural Networks](https://arxiv.org/abs/1605.08254) by Sokolic et al.
 - [Tradeoffs between Convergence Speed and Reconstruction Accuracy in Inverse Problems](https://arxiv.org/abs/1605.09232) by Giryes et al.
 - [Understanding Trainable Sparse Coding via Matrix Factorization](https://arxiv.org/pdf/1609.00285.pdf) by Moreau and Bruna
-- [Convolutional Neural Networks Analyzed via Convolutional Sparse Coding](https://arxiv.org/pdf/1607.08194.pdf) by Papyan et al.
 - [Why are Deep Nets Reversible: A Simple Theory, With Implications for Training](https://arxiv.org/pdf/1511.05653.pdf) by Arora et al.
 - [Stable Recovery of the Factors From a Deep Matrix Product and Application to Convolutional Network](https://arxiv.org/abs/1703.08044) by Malgouyres and Landsberg
 - [Optimal Approximation with Sparse Deep Neural Networks](https://www.nari.ee.ethz.ch/commth//pubs/files/deep-approx-17.pdf) by Bolcskei et al.
-- [Learning Functions: When is Deep Better Than Shallow](https://arxiv.org/abs/1603.00988) by Mhaskar et al.
 - [Convolutional Rectifier Networks as Generalized Tensor Decompositions](https://arxiv.org/abs/1603.00162) by Cohen and Shashua
-- [A Probabilistic Theory of Deep Learning](https://arxiv.org/abs/1504.00641) by Patel et al.
 
 [back](./)

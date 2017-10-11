@@ -5,14 +5,12 @@ A mathematical theory of deep networks and of why they work as well as they do i
 </p>  
     <strong>Readings for this lecture</strong>  
     <ol>
-        <li>
-        <a href="http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-017-1054-2.pdf"> Why and When Can Deep-but Not Shallow... </a>
-        </li>
-    
-<li>
-<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow...: a Review </a>
-</li>
-
+		<li>
+		<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review </a>
+		</li>
+		<li>
+		<a href="https://arxiv.org/abs/1603.00988"> Learning Functions: When is Deep Better Than Shallow </a>
+		</li>
     </ol>
 </div>
 
