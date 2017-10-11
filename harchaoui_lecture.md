@@ -2,12 +2,7 @@
 
 <strong>Title</strong>
 <p align="justify">Abstract</p>  
-<strong>Readings for this lecture</strong>  
-<ol>
-    <li>
-    <a href=""> Reading 1 </a>
-    </li>
-</ol>
+[Readings for this lecture](readings)
 </div>
 
 ![Zaid Harchaoui](/assets/img/zaid.png)  

@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## David Donoho -- Deep Learning Challenge. Is There Theory?
+## Lecture 1 -- Deep Learning Challenge. Is There Theory?
+<strong>Readings for this lecture</strong>  
 <ol>
     <li>
     <a href="https://sinews.siam.org/Details-Page/deep-deep-trouble"> Deep deep trouble </a>
@@ -27,7 +28,8 @@ layout: default
     </li>
 </ol>
 
-## David Donoho -- Overview of Deep Learning From a Practical Point of View 
+## Lecture 2 -- Overview of Deep Learning From a Practical Point of View 
+<strong>Readings for this lecture</strong>  
 <ol>
 	<li>
     <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
@@ -51,8 +53,24 @@ layout: default
     <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf"> Visualizing and Understanding Convolutional Neural Networks </a>
     </li>
 </ol>
+<strong>Blogs</strong>  
+<ol>
+    <li>
+    <a href="https://medium.com/towards-data-science/an-intuitive-guide-to-deep-network-architectures-65fdc477db41"> An Intuitive Guide to Deep Network Architectures </a>
+    </li>
+	<li>
+    <a href="https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba"> Neural Network Architectures </a>
+    </li>
+</ol>
+<strong>Videos</strong>  
+<ol>
+    <li>
+    <a href="https://www.youtube.com/watch?v=AgkfIQ4IGaM&t=99s"> Deep Visualization Toolbox </a>
+    </li>
+</ol>
 
-## Helmut Bolcskei
+## Lecture 3
+<strong>Readings for this lecture</strong>  
 <ol>
     <li>
     <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction </a>
@@ -68,14 +86,16 @@ layout: default
     </li>
 </ol>
 
-## Ankit Patel
+## Lecture 4
+<strong>Readings for this lecture</strong>  
 <ol>
     <li>
     <a href="https://arxiv.org/abs/1504.00641"> A Probabilistic Theory of Deep Learning </a>
     </li>
 </ol>
 
-## Tomaso Poggio
+## Lecture 5
+<strong>Readings for this lecture</strong>  
 <ol>
 	<li>
 	<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review </a>
@@ -85,26 +105,44 @@ layout: default
 	</li>
 </ol>
 
-## Zaid Harchaoui
+## Lecture 6
 
-## Jeffrey Pennington
+## Lecture 7
 
-## Joan Bruna
+## Lecture 8
+<strong>Readings for this lecture</strong>  
 <ol>
 	<li>
 	<a href="https://arxiv.org/pdf/1601.04920.pdf"> Understanding Deep Convolutional Networks </a>
 	</li>
 </ol>
 
-## Bruno Olshausen
+## Lecture 9
+<strong>Readings for this lecture</strong>  
 <ol>
 	<li>
     <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
     </li>
 </ol>
 
+## Lecture 10
+<strong>Readings for this lecture</strong>  
+<ol>
+	<li>
+    <a href="https://arxiv.org/pdf/1707.06066.pdf"> Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding </a>
+    </li>
+	<li>
+    <a href="https://arxiv.org/pdf/1607.08194.pdf"> Convolutional Neural Networks Analyzed via Convolutional Sparse Coding </a>
+    </li>
+	<li>
+    <a href="https://arxiv.org/pdf/1708.08705.pdf"> Multi-Layer Convolutional Sparse Modeling: Pursuit and Dictionary Learning </a>
+    </li>
+	<li>
+    <a href="https://arxiv.org/pdf/1705.03239.pdf"> Convolutional Dictionary Learning via Local Processing </a>
+    </li>
+</ol>
+
 ## To be discussed and extra
-- [Convolutional Neural Networks Analyzed via Convolutional Sparse Coding](https://arxiv.org/pdf/1607.08194.pdf) by Papyan et al.
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) by Kingma and Welling
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
 - [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530) by Zhang et al.

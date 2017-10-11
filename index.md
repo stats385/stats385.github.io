@@ -4,32 +4,7 @@ layout: titlepage
 
 For questions and concerns, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Hatef Monajemi](http://web.stanford.edu/~monajemi/) (@monajemi on GitHub) or [Vardan Papyan](http://vardanp.cswp.cs.technion.ac.il/). This class meets Wednesdays 3:00-4:20 PM at [200-002](https://campus-map.stanford.edu/?srch=200-002). If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit. 
 
-## [](#Lectures) Lectures
----
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/donoho.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="./lecture1">Wednesday, 9/27/17</a> <br>
-<span class="speaker">David Donoho</span> <br>
-<span class="speakerposition">Stanford</span>
-</div>
-</div>
-
-
----
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/donoho.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="./lecture2">Wednesday, 10/4/17</a> <br>
-<span class="speaker">David Donoho</span> <br>
-<span class="speakerposition">Stanford</span>
-</div>
-</div>
-
+## [](#Lectures) Guest Lectures
 
 ---
 <div class="speaker-wrap">
