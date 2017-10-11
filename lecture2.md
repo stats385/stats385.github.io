@@ -21,6 +21,9 @@
     <a href="https://arxiv.org/abs/1512.03385"> Deep Residual Learning for Image Recognition (ResNet) </a>
     </li>
 	<li>
+    <a href="https://arxiv.org/pdf/1502.03167.pdf"> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift </a>
+    </li>
+	<li>
     <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf"> Visualizing and Understanding Convolutional Neural Networks </a>
     </li>
 </ol>
