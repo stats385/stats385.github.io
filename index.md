@@ -114,7 +114,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Basic information about deep learning](basicinfo)    
 
-## [Reading list](readings)    
+## [Reading list](readings)
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
