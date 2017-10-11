@@ -1,8 +1,8 @@
 <div class="abstract">   
     <strong>Title</strong>
     <p align="justify">Abstract/Topics</p>  
-    [Readings for this lecture](readings)
 </div>
+[Readings for this lecture](readings)
 
 
 

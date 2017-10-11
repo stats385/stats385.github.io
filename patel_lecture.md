@@ -1,8 +1,8 @@
 <div class="abstract">   
     <strong>Title</strong>
     <p align="justify">Abstract/Topics</p>  
-    [Readings for this lecture](readings)
-    </div>
+</div>
+[Readings for this lecture](readings)
 
 
 <img src="/assets/img/ankit_patel.jpg" alt="Ankit Patel" style="width: 200px;"/>

@@ -1,9 +1,10 @@
 <div class="abstract">   
 
 <strong>Title</strong>
-<p align="justify">Abstract</p>  
-[Readings for this lecture](readings)
+<p align="justify">Abstract</p>
 </div>
+[Readings for this lecture](readings)
+
 
 ![Zaid Harchaoui](/assets/img/zaid.png)  
 

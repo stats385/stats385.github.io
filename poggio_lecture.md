@@ -1,11 +1,8 @@
 <div class="abstract">   
     <strong>Why can Deep Networks avoid the curse of dimensionality and other theoretical puzzles</strong>
-    <p align="justify">
-A mathematical theory of deep networks and of why they work as well as they do is now emerging. I will  review some recent theoretical results on the approximation power of deep networks including conditions under which they can be exponentially better than shallow learning. A class of deep convolutional networks represent an important special case of these conditions, though weight sharing is not the main reason for their exponential advantage. I will also discuss another puzzle around deep networks: what guarantees that they generalize and they do not overfit despite the number of weights being larger than the number of training data and despite the absence of explicit regularization in the optimization?
-</p>  
-    [Readings for this lecture](readings)
+    <p align="justify">A mathematical theory of deep networks and of why they work as well as they do is now emerging. I will  review some recent theoretical results on the approximation power of deep networks including conditions under which they can be exponentially better than shallow learning. A class of deep convolutional networks represent an important special case of these conditions, though weight sharing is not the main reason for their exponential advantage. I will also discuss another puzzle around deep networks: what guarantees that they generalize and they do not overfit despite the number of weights being larger than the number of training data and despite the absence of explicit regularization in the optimization?</p>
 </div>
-
+[Readings for this lecture](readings)
 
 
 ![Tomaso Poggio](/assets/img/poggio.png)  

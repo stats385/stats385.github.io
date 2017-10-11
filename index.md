@@ -84,6 +84,17 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <span class="speakerposition">UC Berkeley</span>
 </div>
 </div>
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/VardanPapyan.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./papyan_lecture">Wednesday, 12/6/17</a> <br>
+<span class="speaker">Vardan Papyan</span> <br>
+<span class="speakerposition">Stanford</span>
+</div>
+</div>
 
 ## [Reading list](readings)
 
