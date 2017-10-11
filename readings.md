@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Lecture 1 -- Deep Learning Challenge. Is There Theory?
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
     <li>
     <a href="https://sinews.siam.org/Details-Page/deep-deep-trouble"> Deep deep trouble </a>
@@ -29,7 +29,7 @@ layout: default
 </ol>
 
 ## Lecture 2 -- Overview of Deep Learning From a Practical Point of View 
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
 	<li>
     <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
@@ -70,7 +70,7 @@ layout: default
 </ol>
 
 ## Lecture 3
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
     <li>
     <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction </a>
@@ -87,7 +87,7 @@ layout: default
 </ol>
 
 ## Lecture 4
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
     <li>
     <a href="https://arxiv.org/abs/1504.00641"> A Probabilistic Theory of Deep Learning </a>
@@ -95,7 +95,7 @@ layout: default
 </ol>
 
 ## Lecture 5
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
 	<li>
 	<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review </a>
@@ -110,7 +110,7 @@ layout: default
 ## Lecture 7
 
 ## Lecture 8
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
 	<li>
 	<a href="https://arxiv.org/pdf/1601.04920.pdf"> Understanding Deep Convolutional Networks </a>
@@ -118,7 +118,7 @@ layout: default
 </ol>
 
 ## Lecture 9
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
 	<li>
     <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
@@ -126,7 +126,7 @@ layout: default
 </ol>
 
 ## Lecture 10
-<strong>Readings for this lecture</strong>  
+<strong>Readings</strong>  
 <ol>
 	<li>
     <a href="https://arxiv.org/pdf/1707.06066.pdf"> Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding </a>

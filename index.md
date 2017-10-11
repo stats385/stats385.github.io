@@ -96,7 +96,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 
-## [Reading list](readings)
+## [Reading list and other resources](readings)
 
 ## [Lecture slides](lecture_slides)    
 
