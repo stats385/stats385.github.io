@@ -6,6 +6,18 @@
 <strong>Readings for this lecture</strong>  
 <ol>
     <li>
+    <a href="https://sinews.siam.org/Details-Page/deep-deep-trouble"> Deep deep trouble </a>
+    </li>
+	<li>
+    <a href="https://www.tune.com/blog/global-mobile-why-2016-is-the-global-tipping-point-for-the-mobile-economy/"> Why 2016 is the global tipping point... </a>
+    </li>
+	<li>
+    <a href="http://www.digitalistmag.com/digital-economy/2017/07/19/ai-machine-learning-killing-analytics-as-we-know-it-05223779"> Are AI and ML killing analyticals... </a>
+    </li>
+	<li>
+    <a href="https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/"> The dark secret at the heart of AI </a>
+    </li>
+	<li>
     <a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-robots-artificial-intelligence-racism-sexism-prejudice-bias-language-learn-from-humans-a7683161.html"> AI robots learning racism... </a>
     </li>
 	<li>
