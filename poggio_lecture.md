@@ -5,14 +5,12 @@ A mathematical theory of deep networks and of why they work as well as they do i
 </p>  
     <strong>Readings for this lecture</strong>  
     <ol>
-        <li>
-        <a href="http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-017-1054-2.pdf"> Why and When Can Deep-but Not Shallow... </a>
-        </li>
-    
-<li>
-<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow...: a Review </a>
-</li>
-
+		<li>
+		<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review </a>
+		</li>
+		<li>
+		<a href="https://arxiv.org/abs/1603.00988"> Learning Functions: When is Deep Better Than Shallow </a>
+		</li>
     </ol>
 </div>
 
@@ -25,3 +23,5 @@ A mathematical theory of deep networks and of why they work as well as they do i
 His interdisciplinary research on the problem of intelligence, between brains and computers, started at the Max Planck Institute in Tuebingen, Germany in collaborations with Werner E. Reichardt, David C. Marr and Francis H.C. Crick, among others. He has made contributions to learning theory, to the computational theory of vision, to the understanding of the fly's visual system, and to the biophysics of computation. His recent work is focused on computational neuroscience in close collaboration with several physiology labs, trying to answer the questions of how our visual system learns to see and recognize scenes and objects.[2]
 
 He is one of the most cited computational neuroscientists. with contributions ranging from the biophysical and behavioral studies of the visual system to the computational analyses of vision and learning in humans and machines. With Werner E. Reichardt he characterized quantitatively the visuo-motor control system in the fly. With David Marr (neuroscientist), he introduced the seminal idea of levels of analysis in computational neuroscience. He introduced regularization as a mathematical framework to approach the ill-posed problems of vision and the key problem of learning from data. The citation for the 2009 Okawa prize mentions his "...outstanding contributions to the establishment of computational neuroscience, and pioneering researches ranging from the biophysical and behavioral studies of the visual system to the computational analysis of vision and learning in humans and machines." His research has always been interdisciplinary, between brains and computers. It is now focused on the mathematics of deep learning and on the computational neuroscience of the visual cortex.
+
+[back](./)

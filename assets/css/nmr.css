@@ -346,5 +346,9 @@ table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table
 .text-white {
     color: #fff !important
 }
+
+.text-gray {
+    color: rgba(128, 128, 128, 0.7) !important
+}
 /*# sourceMappingURL=nmr.css.map */
 
