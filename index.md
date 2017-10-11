@@ -11,7 +11,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/donoho.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./lecture1">Wednesday, 9/27/2017</a> <br>
+<a class="talkdate" href="./lecture1">Wednesday, 9/27/17</a> <br>
 <span class="speaker">David Donoho</span> <br>
 <span class="speakerposition">Stanford</span>
 </div>
@@ -24,7 +24,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/donoho.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./lecture2">Wednesday, 10/4/2017</a> <br>
+<a class="talkdate" href="./lecture2">Wednesday, 10/4/17</a> <br>
 <span class="speaker">David Donoho</span> <br>
 <span class="speakerposition">Stanford</span>
 </div>
@@ -37,7 +37,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/bolcskei.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./bolcskei_lecture">Wednesday, 10/11/2017</a> <br>
+<a class="talkdate" href="./bolcskei_lecture">Wednesday, 10/11/17</a> <br>
 <span class="speaker">Helmut Bolcskei</span> <br>
 <span class="speakerposition">ETH Zurich</span>
 </div>
@@ -49,7 +49,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/ankit_patel.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./patel_lecture">Wednesday, 10/18/2017</a> <br>
+<a class="talkdate" href="./patel_lecture">Wednesday, 10/18/17</a> <br>
 <span class="speaker">Ankit Patel</span> <br>
 <span class="speakerposition">Rice University and BCM</span>
 </div>
@@ -60,7 +60,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/poggio.png">
 </div>
 <div class="card">
-<a class="talkdate" href="./poggio_lecture">Wednesday, 10/25/2017</a> <br>
+<a class="talkdate" href="./poggio_lecture">Wednesday, 10/25/17</a> <br>
 <span class="speaker">Tomaso Poggio</span> <br>
 <span class="speakerposition">MIT</span>
 </div>
@@ -71,7 +71,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/zaid.png">
 </div>
 <div class="card">
-<a class="talkdate" href="./harchaoui_lecture">Wednesday, 11/01/2017</a> <br>
+<a class="talkdate" href="./harchaoui_lecture">Wednesday, 11/01/17</a> <br>
 <span class="speaker">Zaid Harchaoui</span> <br>
 <span class="speakerposition">University of Washington</span>
 </div>
@@ -82,7 +82,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/pennington.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./pennington_lecture">Wednesday, 11/08/2017</a> <br>
+<a class="talkdate" href="./pennington_lecture">Wednesday, 11/08/17</a> <br>
 <span class="speaker">Jeffrey Pennington</span> <br>
 <span class="speakerposition">Google, NY</span>
 </div>
@@ -93,7 +93,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/bruna.png">
 </div>
 <div class="card">
-<a class="talkdate" href="./bruna_lecture">Wednesday, 11/15/2017</a> <br>
+<a class="talkdate" href="./bruna_lecture">Wednesday, 11/15/17</a> <br>
 <span class="speaker">Joan Bruna</span> <br>
 <span class="speakerposition">Courant Institute, NYU</span>
 </div>
@@ -104,7 +104,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/bruno_olshausen.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./olshausen_lecture">Wednesday, 11/29/2017</a> <br>
+<a class="talkdate" href="./olshausen_lecture">Wednesday, 11/29/17</a> <br>
 <span class="speaker">Bruno Olshausen</span> <br>
 <span class="speakerposition">UC Berkeley</span>
 </div>
