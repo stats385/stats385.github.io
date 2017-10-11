@@ -110,6 +110,8 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 
+## [Lecture slides](lecture_slides)    
+
 ## [Basic information about deep learning](basicinfo)    
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
