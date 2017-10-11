@@ -1,8 +1,8 @@
 <div class="abstract">   
 <strong>Harmonic analysis of deep convolutional neural networks</strong>
 <p align="justify">Deep convolutional neural networks (CNNs) used in practice employ potentially hundreds of layers and 10,000s of nodes. Such network sizes entail formidable challenges in training, operating, and storing the network. Very deep and wide CNNs may therefore not be well suited to applications operating under severe resource constraints as is the case, e.g., in low-power embedded and mobile platforms. This talk develops a harmonic analysis approach to CNNs with the aim of understanding the impact of CNN topology, specifically depth and width, on the network’s feature extraction and expressivity capabilities.</p>  
-[Readings for this lecture](readings)
 </div>
+[Readings for this lecture](readings)
 
 ![Helmut Bolcskei](/assets/img/bolcskei.jpg)  
 
