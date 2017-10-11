@@ -51,7 +51,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <div class="card">
 <a class="talkdate" href="./patel_lecture">Wednesday, 10/18/17</a> <br>
 <span class="speaker">Ankit Patel</span> <br>
-<span class="speakerposition">Rice University and BCM</span>
+<span class="speakerposition">Rice and BCM</span>
 </div>
 </div>
 ---
@@ -73,7 +73,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <div class="card">
 <a class="talkdate" href="./harchaoui_lecture">Wednesday, 11/01/17</a> <br>
 <span class="speaker">Zaid Harchaoui</span> <br>
-<span class="speakerposition">University of Washington</span>
+<span class="speakerposition">UW</span>
 </div>
 </div>
 ---
