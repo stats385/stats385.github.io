@@ -5,6 +5,9 @@
 <br>
 <strong>Readings for this lecture</strong>  
 <ol>
+	<li>
+    <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
+    </li>
     <li>
     <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> ImageNet Classification with Deep Convolutional Neural Networks (Alexnet) </a>
     </li>
