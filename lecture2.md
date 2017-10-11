@@ -37,6 +37,8 @@
     </li>
 </ol>
 
+<a href="./assets/lectures/Lecture-02-AsCorrected.pdf"> slides </a>
+
 </div>
 
 ![David Donoho](/assets/img/donoho.jpg)  
