@@ -92,6 +92,9 @@ layout: default
     <li>
     <a href="https://arxiv.org/abs/1504.00641"> A Probabilistic Theory of Deep Learning </a>
     </li>
+    <li>
+    <a href="https://papers.nips.cc/paper/6231-a-probabilistic-framework-for-deep-learning"> A Probabilistic Framework for Deep Learning </a>
+    </li>
 </ol>
 
 ## Lecture 5
