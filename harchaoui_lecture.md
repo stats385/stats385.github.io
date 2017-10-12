@@ -3,7 +3,7 @@
 <strong>Title</strong>
 <p align="justify">Abstract</p>
 </div>
-[Readings for this lecture](readings)
+[Readings for this lecture](readings#lecture-6)
 
 
 ![Zaid Harchaoui](/assets/img/zaid.png)  

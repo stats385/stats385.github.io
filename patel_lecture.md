@@ -2,7 +2,7 @@
     <strong>Title</strong>
     <p align="justify">Abstract/Topics</p>  
 </div>
-[Readings for this lecture](readings)
+[Readings for this lecture](readings#lecture-4)
 
 
 <img src="/assets/img/ankit_patel.jpg" alt="Ankit Patel" style="width: 200px;"/>

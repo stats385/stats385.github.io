@@ -2,7 +2,7 @@
     <strong>Title</strong>
     <p align="justify">Abstract/Topics</p>
 </div>
-[Readings for this lecture](readings)
+[Readings for this lecture](readings#lecture-8)
 
 
 ![Joan Bruna](/assets/img/bruna.png)  
