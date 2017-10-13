@@ -1,5 +1,5 @@
 
-# Lecture slides for STATS385, Fall 2017
+# Lecture videos for STATS385, Fall 2017
 
 
 ### [Lecture01: Deep Learning Challenge. Is There Theory? (Donoho/Monajemi/Papyan)]( https://www.youtube.com/watch?v=KrTqxmS1-L4)
