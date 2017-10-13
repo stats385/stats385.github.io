@@ -90,7 +90,7 @@ layout: default
 <strong>Readings</strong>  
 <ol>
 	<li>
-    <a href="https://papers.nips.cc/paper/6231-a-probabilistic-framework-for-deep-learning"> A Probabilistic Framework for Deep Learning </a>
+    <a href="https://ankitbpatel715.files.wordpress.com/2017/10/nips2016_todl_v1.pdf"> A Probabilistic Framework for Deep Learning </a>
     </li>
 	<li>
     <a href="https://ankitbpatel715.files.wordpress.com/2016/12/todl_semi_supervised_learning_drmm_arxiv_v0.pdf"> Semi-Supervised Learning with the Deep Rendering Mixture Model </a>
