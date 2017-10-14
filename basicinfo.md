@@ -4,7 +4,7 @@ layout: default
 
 ## Courses
 - [Chris Manning](http://web.stanford.edu/class/cs224n/)
-- [Andrew Ng](deeplearning.ai)
+- [Andrew Ng](http://deeplearning.ai)
 - [CS231n](http://cs231n.github.io)
 
 ## Packages -- including examples, tutorials and pretrained models
