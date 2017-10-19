@@ -120,20 +120,28 @@ layout: default
     <li>
     <a href="https://papers.nips.cc/paper/5348-convolutional-kernel-networks.pdf"> Convolutional Kernel Networks </a>
     </li>
+    <li>
     <a href="https://papers.nips.cc/paper/4147-kernel-descriptors-for-visual-recognition.pdf"> Kernel Descriptors for Visual Recognition </a>
     </li>
-    </li>
+    <li>
     <a href="https://arxiv.org/pdf/1605.06265.pdf"> End-to-End Kernel Learning with Supervised Convolutional Kernel Networks </a>
     </li>
-    </li>
+    <li>
     <a href="https://mitpress.mit.edu/books/learning-kernels"> Learning with Kernels </a>
     </li>
-    </li>
+    <li>
     <a href="http://www.harchaoui.eu/zaid/publications/hbm_2013_kertest_ieeespm.pdf"> Kernel Based Methods for Hypothesis Testing </a>
     </li>
 </ol>
 
 ## Lecture 7
+<strong>Readings</strong>  
+<ol>
+	<li>
+	<a href="http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf"> Geometry of Neural Network Loss Surfaces via Random Matrix Theory </a>
+	</li>
+</ol>
+
 
 ## Lecture 8
 <strong>Readings</strong>  
