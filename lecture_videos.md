@@ -8,4 +8,9 @@
 
 ### [Lecture03: Harmonic Analysis of Deep Convolutional Neural Networks (Helmut Bolcskei)]()
 
+### [Lecture04:  (Helmut Bolcskei)]()
+
+
+https://www.youtube.com/watch?v=uIVPo5eyhE0&feature=youtu.be
+
 [back](./)
