@@ -6,7 +6,7 @@
 
 ### [Lecture02: Overview of Deep Learning From a Practical Point of View (Donoho/Monajemi/Papyan)](https://www.youtube.com/watch?v=VsBFt_-h5QA)
 
-### [Lecture03: Harmonic Analysis of Deep Convolutional Neural Networks (Helmut Bolcskei)]()
+### [Lecture03: Harmonic Analysis of Deep Convolutional Neural Networks (Helmut Bolcskei)](https://www.youtube.com/watch?v=oCohnBbmpLA)
 
 ### [Lecture04:  (Helmut Bolcskei)]()
 
