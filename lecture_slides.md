@@ -8,4 +8,6 @@
 
 ### [Lecture03: Harmonic Analysis of Deep Convolutional Neural Networks (Helmut Bolcskei)](./assets/lectures/bolcskei-stats385-slides.pdf)
 
+### [Lecture04: Convnets from First Principles: Generative Models, Dynamic Programming & EM (Ankit Patel)](./assets/lectures/2017 Stanford Guest Lecture - Stats 385 - Oct 2017.pdf)
+
 [back](./)
