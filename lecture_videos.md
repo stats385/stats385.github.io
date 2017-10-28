@@ -10,7 +10,7 @@
 
 ### [Lecture04: Convnets from First Principles (Ankit Patel)](https://www.youtube.com/watch?v=uIVPo5eyhE0&feature=youtu.be)
 
-
+### [Lecture05: When Can Deep Networks Avoid the Curse of Dimensionality (Tomaso Poggio)](https://www.youtube.com/watch?v=xclYsBlB9Wg&feature=youtu.be)
 
 
 [back](./)
