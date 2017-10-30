@@ -4,6 +4,11 @@ layout: titlepage
 
 For questions and concerns, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Hatef Monajemi](http://web.stanford.edu/~monajemi/) (@monajemi on GitHub) or [Vardan Papyan](http://vardanp.cswp.cs.technion.ac.il/). This class meets Wednesdays 3:00-4:20 PM at [200-002](https://campus-map.stanford.edu/?srch=200-002). If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit. 
 
+
+## Deep Learning/AI News
+ * [This Is The Future Of Artificial Intelligence](http://amp.timeinc.net/fortune/2016/06/15/future-of-work-2)
+
+
 ## [](#Lectures) Guest Lectures
 
 ---
