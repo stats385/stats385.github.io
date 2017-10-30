@@ -10,7 +10,7 @@
 
 ### [Lecture04: Convnets from First Principles: Generative Models, Dynamic Programming & EM (Ankit Patel)](./assets/lectures/2017 Stanford Guest Lecture - Stats 385 - Oct 2017.pdf)
 
-### [Lecture05: When Can Deep Networks Avoid the Curse of Dimensionality (Tomaso Poggio)](./assets/lectures/StanfordStats385-20171025-Lecture05-Poggio.pdf)
+### [Lecture05: When Can Deep Networks Avoid the Curse of Dimensionality and Other Theoretical Puzzles (Tomaso Poggio)](./assets/lectures/StanfordStats385-20171025-Lecture05-Poggio.pdf)
 
 
 ### []()
