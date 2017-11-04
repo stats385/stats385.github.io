@@ -109,7 +109,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
-## [Blog](Lecture01.ipynb)
+## [Blog](http://bl.ocks.org/vardanp91/raw/be0f763405b76d33caefdaebc2ac3487/)
 
 ## [Grading](grading)
 
