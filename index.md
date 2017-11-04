@@ -109,7 +109,9 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
-## [Blog](http://bl.ocks.org/vardanp91/raw/be0f763405b76d33caefdaebc2ac3487/)
+## [The course in a single graph](http://bl.ocks.org/vardanp91/raw/be0f763405b76d33caefdaebc2ac3487/)
+
+## [Blogs](blogs)
 
 ## [Grading](grading)
 
