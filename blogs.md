@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# Blogs
 - [Open AI](https://blog.openai.com/)
 - [Distill](https://distill.pub/)
 - [BAIR Blog](http://bair.berkeley.edu/blog/)
