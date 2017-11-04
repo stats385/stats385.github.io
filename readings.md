@@ -137,18 +137,40 @@ layout: default
 ## Lecture 7
 <strong>Readings</strong>  
 <ol>
-	<li>
-	<a href="http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf"> Geometry of Neural Network Loss Surfaces via Random Matrix Theory </a>
-	</li>
+	
+<li>
+<a href="http://www.pennington.ml/papers/geometry_nns.pdf"> Geometry of Neural Network Loss Surfaces via Random Matrix Theory </a>
+</li>
+
+<li>
+<a href="http://www.pennington.ml/papers/resurrecting_sigmoid.pdf">Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice</a>
+</li>
+
+<li>
+<a href="http://www.pennington.ml/papers/nonlinear_rmt.pdf"> Nonlinear random matrix theory for deep learning </a>
+</li>
+
+
 </ol>
 
 
 ## Lecture 8
 <strong>Readings</strong>  
 <ol>
-	<li>
-	<a href="https://arxiv.org/pdf/1601.04920.pdf"> Understanding Deep Convolutional Networks </a>
-	</li>
+
+<li>
+<a href="http://papers.nips.cc/paper/6111-deep-learning-without-poor-local-minima"> Deep Learning without Poor Local Minima </a>
+</li>
+<li>
+<a href="https://arxiv.org/abs/1611.01540"> Topology and Geometry of Half-Rectified Network Optimization </a>
+</li> 
+<li>
+<a href="https://arxiv.org/abs/1609.01000"> Convexified Convolutional Neural Networks </a>
+</li> 
+<li>
+<a href="https://arxiv.org/pdf/1705.09280.pdf"> Implicit Regularization in Matrix Factorization </a>
+</li> 
+
 </ol>
 
 ## Lecture 9
