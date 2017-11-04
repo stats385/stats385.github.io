@@ -12,5 +12,7 @@
 
 ### [Lecture05: When Can Deep Networks Avoid the Curse of Dimensionality (Tomaso Poggio)](https://www.youtube.com/watch?v=4yLCuZnhkdI&feature=youtu.be)
 
+### [Lecture06: Scaling Python to GPUs and clusters: Dask and Numba and ideas for future work (Travis Oliphant)](https://www.youtube.com/watch?v=bsbl70d2d1U&feature=youtu.be)
+
 
 [back](./)
