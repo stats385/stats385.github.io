@@ -109,6 +109,8 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
+## [Blog](Lecture01.ipynb)
+
 ## [Grading](grading)
 
 ## [Plan your visit](speaker_visit)
