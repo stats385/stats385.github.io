@@ -176,10 +176,13 @@ layout: default
 ## Lecture 9
 <strong>Readings</strong>  
 <ol>
+    <li>
     <a href="http://redwood.berkeley.edu/bruno/public/papers/Fukushima1980.pdf">Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position</a>
     </li>
+    <li>
     <a href="http://redwood.berkeley.edu/bruno/papers/perception-as-inference.pdf">Perception as an inference problem</a>
     </li>
+    <li>
     <a href="http://redwood.berkeley.edu/bruno/papers/jneurosci93.pdf">A Neurobiological Model of Visual Attention and Invariant Pattern Recognition Based on Dynamic Routing of Information</a>
     </li>
 </ol>
