@@ -1,10 +1,12 @@
 <div class="abstract">   
-    <strong>Title</strong>
-    <p align="justify">Abstract/Topics</p>
+    <strong>What’s Missing in Deep Learning</strong>
+    <p align="justify">The successes of deep learning have been much celebrated within both academia and industry, with one prominent CEO recently proclaiming that “we’re at the beginning of a new day.”*  Is this advance really all that it is cracked up to be?  Here I shall attempt to provide a different perspective by examining the historical development of this field, and by considering the structure of biological neural networks and the problems solved by them, which are markedly different than those currently being considered.  I shall argue that the hard problems of AI, including aspects of perception, cognition, and motor control, are still just as hard and poorly understood today as they were 50 years ago.  The point of this exercise is to draw attention to what is missing, and what more will be needed to make true progress.  I shall focus on two components in particular:  dynamic routing of information flow, and the use of feedback for inferential computations.
+<br>
+*<a href="https://www.youtube.com/embed/ca40gkvLfwE"> NVIDIA GTC Taiwan 2017 Keynote address </a>
+
+</p>
 </div>
 [Readings for this lecture](readings#lecture-9)
-
-
 
 ![Bruno Olshausen](/assets/img/bruno_olshausen.jpg)  
 

@@ -176,8 +176,14 @@ layout: default
 ## Lecture 9
 <strong>Readings</strong>  
 <ol>
-	<li>
-    <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
+    <li>
+    <a href="http://redwood.berkeley.edu/bruno/public/papers/Fukushima1980.pdf">Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position</a>
+    </li>
+    <li>
+    <a href="http://redwood.berkeley.edu/bruno/papers/perception-as-inference.pdf">Perception as an inference problem</a>
+    </li>
+    <li>
+    <a href="http://redwood.berkeley.edu/bruno/papers/jneurosci93.pdf">A Neurobiological Model of Visual Attention and Invariant Pattern Recognition Based on Dynamic Routing of Information</a>
     </li>
 </ol>
 
@@ -199,6 +205,7 @@ layout: default
 </ol>
 
 ## To be discussed and extra
+- [Emergence of simple cell](https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf) by Olshausen and Field
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) by Kingma and Welling
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
 - [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530) by Zhang et al.
