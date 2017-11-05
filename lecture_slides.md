@@ -12,6 +12,7 @@
 
 ### [Lecture05: When Can Deep Networks Avoid the Curse of Dimensionality and Other Theoretical Puzzles (Tomaso Poggio)](./assets/lectures/StanfordStats385-20171025-Lecture05-Poggio.pdf)
 
+### [Lecture06: Views of Deep Networksfrom Reproducing Kernel Hilbert Spaces (Zaid Harchaoui)](./assets/lectures/lecture6_stats385_stanford_nov17.pdf)
 
 ### []()
 
