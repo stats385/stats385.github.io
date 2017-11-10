@@ -14,6 +14,8 @@
 
 ### [Lecture06: Views of Deep Networksfrom Reproducing Kernel Hilbert Spaces (Zaid Harchaoui)](./assets/lectures/lecture6_stats385_stanford_nov17.pdf)
 
+### [Lecture07: Understanding and Improving Deep Learning With Random Matrix Theory (Jeffrey Pennington)](./assets/lectures/Understanding_and_improving_deep_learing_with_random_matrix_theory.pdf)
+
 ### []()
 
 [back](./)
