@@ -12,7 +12,7 @@
 
 ### [Lecture05: When Can Deep Networks Avoid the Curse of Dimensionality (Tomaso Poggio)](https://www.youtube.com/watch?v=4yLCuZnhkdI&feature=youtu.be)
 
-### [Lecture06: Views of Deep Networks from Reproducing Kernel Hilbert Spaces (Zaid Harchaoui)](https://www.youtube.com/watch?v=k4HqRN1nbj4&feature=youtu.be)
+### [Lecture06: Views of Deep Networks from Reproducing Kernel Hilbert Spaces (Zaid Harchaoui)](https://www.youtube.com/edit?o=U&video_id=k4zz_MX2Ero)
 
 
 
