@@ -101,6 +101,10 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 
+## [Follow us on twitter](https://twitter.com/stats385?lang=en)
+
+## [In the media](media)
+
 ## [Reading list and other resources](readings)
 
 ## [Lecture slides](lecture_slides)    

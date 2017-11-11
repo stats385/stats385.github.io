@@ -217,5 +217,7 @@ layout: default
 - [Stable Recovery of the Factors From a Deep Matrix Product and Application to Convolutional Network](https://arxiv.org/abs/1703.08044) by Malgouyres and Landsberg
 - [Optimal Approximation with Sparse Deep Neural Networks](https://www.nari.ee.ethz.ch/commth//pubs/files/deep-approx-17.pdf) by Bolcskei et al.
 - [Convolutional Rectifier Networks as Generalized Tensor Decompositions](https://arxiv.org/abs/1603.00162) by Cohen and Shashua
+- [Emergence of Invariance and Disentanglement in Deep Representations](https://arxiv.org/pdf/1706.01350.pdf) by Achille and Soatto
+- [Deep Learning and the Information Bottleneck Principle](https://arxiv.org/pdf/1503.02406.pdf) by Tishby and Zaslavsky
 
 [back](./)
