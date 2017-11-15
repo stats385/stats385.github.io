@@ -30,7 +30,7 @@ Accepts as input:
 <ul style="list-style-type:circle">
 	<li>
 	
-	<a href="http://www.codecogs.com/eqnedit.php?latex=W_2&space;=&space;\frac{W_1&space;-&space;F}{S}&space;&plus;&space;1&plus;&space;1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?W_2&space;=&space;\frac{W_1&space;-&space;F}{S}&space;&plus;&space;1&plus;&space;1" title="W_2 = \frac{W_1 - F}{S} + 1+ 1" /></a>
+	<a href="http://www.codecogs.com/eqnedit.php?latex=W_2&space;=&space;\frac{W_1&space;-&space;F}{S}&space;&plus;&space;1&plus;&space;1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?W_2&space;=&space;\frac{W_1&space;-&space;F}{S}&space;&plus;&space;1&plus;&space;1" title="W_2 = \frac{W_1 - F}{S} + 1" /></a>
 	
 	</li>
 	<li>
