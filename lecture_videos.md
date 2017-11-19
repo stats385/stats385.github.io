@@ -14,6 +14,8 @@
 
 ### [Lecture06: Views of Deep Networks from Reproducing Kernel Hilbert Spaces (Zaid Harchaoui)](https://www.youtube.com/edit?o=U&video_id=k4zz_MX2Ero)
 
+### [Lecture07: Understanding and Improving Deep Learning With Random Matrix Theory (Jeffrey Pennington)](https://www.youtube.com/watch?v=idiaK-IBdcM&feature=youtu.be)
+
 ### [Lecture08: Topology and Geometry of Half-rectified Network Optimization (Joan Bruna)](https://www.youtube.com/watch?v=rBxoRQODJdM&feature=em-upload_owner)
 
 [back](./)

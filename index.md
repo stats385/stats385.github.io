@@ -105,6 +105,8 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 
+## [Looking for a postdoc?](postdoc)
+
 ## [In the media](media)
 
 ## [Reading list and other resources](readings)
