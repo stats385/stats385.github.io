@@ -16,4 +16,6 @@
 
 ### [Lecture07: Understanding and Improving Deep Learning With Random Matrix Theory (Jeffrey Pennington)](https://www.youtube.com/watch?v=idiaK-IBdcM&feature=youtu.be)
 
+### [Lecture08: Topology and Geometry of Half-rectified Network Optimization (Joan Bruna)](https://www.youtube.com/watch?v=rBxoRQODJdM&feature=em-upload_owner)
+
 [back](./)
