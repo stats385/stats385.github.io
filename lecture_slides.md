@@ -18,6 +18,6 @@
 
 ### [Lecture08: Topology and Geometry of Half-Rectified Network Optimization (Joan Bruna)](./assets/lectures/stanford_nov15.pdf)
 
-### []()
+### [Lecture09: What is Missing in Deep Learning (Bruno Olshausen)](./assets/lectures/StanfordStats385-20171129-Lecture09-Olshausen.pdf)
 
 [back](./)
