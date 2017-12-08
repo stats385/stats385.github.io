@@ -18,6 +18,6 @@
 
 ### [Lecture08: Topology and Geometry of Half-rectified Network Optimization (Joan Bruna)](https://www.youtube.com/watch?v=rBxoRQODJdM&feature=em-upload_owner)
 
-### [Lecture09: What is missing in Deep Learning (Bruno Olshausen)] (https://youtu.be/zSm55CZDwq0)
+### [Lecture09: What is missing in Deep Learning (Bruno Olshausen)](https://youtu.be/zSm55CZDwq0)
 
 [back](./)
