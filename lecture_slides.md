@@ -18,6 +18,12 @@
 
 ### [Lecture08: Topology and Geometry of Half-Rectified Network Optimization (Joan Bruna)](./assets/lectures/stanford_nov15.pdf)
 
+### [Lecture09: What’s Missing from Deep Learning? (Bruno Olshausen)](./assets/lectures/lecture-09--20171129.pdf)
+
+### [Lecture10: Convolutional Neural Networks in View of Sparse Coding (Vardan Papyan)](./assets/lectures/lecture-10--20171206.pdf)
+
+lecture-09--20171129.pdflecture-10--20171206.pdf
+
 ### []()
 
 [back](./)
