@@ -22,8 +22,4 @@
 
 ### [Lecture10: Convolutional Neural Networks in View of Sparse Coding (Vardan Papyan)](./assets/lectures/lecture-10--20171206.pdf)
 
-lecture-09--20171129.pdflecture-10--20171206.pdf
-
-### []()
-
 [back](./)
