@@ -20,4 +20,7 @@
 
 ### [Lecture09: What is missing in Deep Learning (Bruno Olshausen)](https://youtu.be/zSm55CZDwq0)
 
+### [Lecture10: Convolutional Neural Networks in View of Sparse Coding and Crimes of Deep Learning (Vardan Papyan and David Donoho)](https://www.youtube.com/watch?v=LwHhMu_7ZB4&feature=youtu.be)
+
+
 [back](./)
