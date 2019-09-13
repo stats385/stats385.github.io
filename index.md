@@ -1,5 +1,5 @@
 ---
-layout: titlepage_old
+layout: titlepage
 ---
 
 For questions and concerns, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Vardan Papyan](https://statistics.stanford.edu/people/vardan-papyan), or [Yiqiao Zhong](https://web.stanford.edu/~yiqiaoz/). This class meets Wednesdays 3:00-4:20 PM at Bishop Auditorium [08-350](https://campus-map.stanford.edu/?srch=Bishop+Auditorium). If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit. 
