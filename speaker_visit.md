@@ -3,13 +3,13 @@
 
 
 ## Accommodations
-Department of Statisics will arrange your lodging. Please send an email to [Ms. Emily Lauderdale](https://statistics.stanford.edu/people/emily-lauderdale) at <elauderd@stanford.edu> with your desired dates of reservation and Emily will book you a hotel room in Palo Alto. 
+Department of Statistics will arrange your lodging. Please send an email to [Ms. Allison Stone](https://statistics.stanford.edu/people/allison-stone) at <allison.stone@stanford.edu> with your desired dates of reservation and Emily will book you a hotel room in Palo Alto. 
 
 
 
 ## Instruction for reimbursement
 Please make sure you review [reimbursement policies](#reimbursement-policies) before you arrange your trip. 
-To be reimbursed, you should submit receipts to [Ms. Nicole Cobb](https://statistics.stanford.edu/people/nicole-cobb) at <ncobb@stanford.edu>. We recommed that you also inform STATS385 team by carbon copying our email <stats385.stanford@gmail.com> while submitting your reimbursement request. 
+To be reimbursed, you should submit receipts to [Ms. Nicole Cobb](https://statistics.stanford.edu/people/nicole-cobb) at <ncobb@stanford.edu>. We recommend that you also inform STATS385 team by carbon copying our email <stats385.stanford@gmail.com> while submitting your reimbursement request. 
 
 
 ## Reimbursement policies
