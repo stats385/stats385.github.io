@@ -114,18 +114,28 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 </div>
 </div>
 
+{% comment %}
+
 ## [In the media](media)
 
 ## [Reading list and other resources](readings)
 
-## [Lecture slides](lecture_slides)    
+## [Lecture slides](lecture_slides)  
+
+{% endcomment %}  
 
 ## [Basic information about deep learning](basicinfo)    
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
+{% comment %}
+
 ## [Blogs](blogs)
 
 ## [Grading](grading)
 
+{% endcomment %}  
+
 ## [Plan your visit](speaker_visit)
+
+## [Visit previous iteration of Stats385 (2017)](stats385_2017)
