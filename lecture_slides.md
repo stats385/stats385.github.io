@@ -2,6 +2,9 @@
 # Lecture slides for STATS385, Fall 2017
 
 
+The recommended readings are from 2017. Contents will be updated as the course begins.
+
+
 ### [Lecture01: Deep Learning Challenge. Is There Theory? (Donoho/Monajemi/Papyan)](./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf)
 
 ### [Lecture02: Overview of Deep Learning From a Practical Point of View (Donoho/Monajemi/Papyan)](./assets/lectures/Lecture-02-AsCorrected.pdf)

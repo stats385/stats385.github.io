@@ -2,6 +2,8 @@
 layout: default
 ---
 
+The recommended readings are from 2017. Contents will be updated as the course begins.
+
 ## Lecture 1 -- Deep Learning Challenge. Is There Theory?
 <strong>Readings</strong>  
 <ol>
