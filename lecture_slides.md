@@ -1,5 +1,5 @@
 
-# Lecture slides for STATS385, Fall 2017
+# Lecture slides for STATS385, Fall 2019
 
 
 The recommended readings are from 2017. Contents will be updated as the course begins.
