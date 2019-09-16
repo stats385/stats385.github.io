@@ -1,3 +1,6 @@
+---
+layout: default_old
+---
 
 # Lecture videos for STATS385, Fall 2017
 

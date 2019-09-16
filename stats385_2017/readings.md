@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_old
 ---
 
 ## Lecture 1 -- Deep Learning Challenge. Is There Theory?
