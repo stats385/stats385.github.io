@@ -138,4 +138,4 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Plan your visit](speaker_visit)
 
-## [Visit previous iteration of Stats385 (2017)](stats385_2017)
+## [Visit previous iteration of Stats385 (2017)](https://stats385.github.io/stats385_2017.github.io/)
