@@ -2,9 +2,39 @@
 layout: default
 ---
 
-The recommended readings are from 2017. Contents will be updated as the course begins.
+Reading materials will be frequently updated as the course starts.
 
-## Lecture 1 -- Deep Learning Challenge. Is There Theory?
+## General Introduction to Deep Learning
+<strong>Readings</strong>  
+<ol>
+    <li>
+    <a href="https://www.deeplearningbook.org"> Deep Learning Book: A Comprehensive Introduction to Deep Learning </a>
+    </li>
+     <li>
+    <a href="https://www.nature.com/articles/nature14539"> An Introductory Article by LeCun, Bengio, and Hinton Published in *Nature*  </a>
+    </li>
+    <li>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0893608014002135"> History and Development of Neural Networks   </a>
+    </li>
+    <li>
+    <a href="https://arxiv.org/abs/1904.05526"> An Overview from the Statistical Perspective </a>
+    </li>
+
+</ol>
+<strong>Online resources</strong>  
+<ol>
+    <li>
+    <a href="https://www.d2l.ai"> Online Tutorials </a>
+    </li>
+     <li>
+    <a href="https://amturing.acm.org/lectures.cfm"> Videos of Turing Lectures by Geoffrey Hinton and Yann LeCun</a>
+    </li>
+
+</ol>
+
+{% comment %}
+
+## Lecture 1
 <strong>Readings</strong>  
 <ol>
     <li>
@@ -30,14 +60,16 @@ The recommended readings are from 2017. Contents will be updated as the course b
     </li>
 </ol>
 
-## Lecture 2 -- Overview of Deep Learning From a Practical Point of View 
+{% endcomment %}  
+
+## Lecture 1
 <strong>Readings</strong>  
 <ol>
 	<li>
-    <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of simple cell </a>
+    <a href="https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf"> Emergence of Simple-cell Receptive Field Properties </a>
     </li>
     <li>
-    <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> ImageNet Classification with Deep Convolutional Neural Networks (Alexnet) </a>
+    <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) </a>
     </li>
 	<li>
     <a href="https://arxiv.org/abs/1409.1556"> Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG) </a>
@@ -45,14 +77,21 @@ The recommended readings are from 2017. Contents will be updated as the course b
 	<li>
     <a href="https://arxiv.org/pdf/1409.4842.pdf"> Going Deeper with Convolutions (GoogLeNet) </a>
     </li>
-	<li>
+    	<li>
     <a href="https://arxiv.org/abs/1512.03385"> Deep Residual Learning for Image Recognition (ResNet) </a>
+    </li>
+    	<li>
+    <a href="http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"> Dropout: A Simple Way to Prevent Neural Networks from
+Overfitting </a>
     </li>
 	<li>
     <a href="https://arxiv.org/pdf/1502.03167.pdf"> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift </a>
     </li>
 	<li>
     <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf"> Visualizing and Understanding Convolutional Neural Networks </a>
+    </li>
+    	<li>
+    <a href="https://arxiv.org/abs/1611.03530"> Understanding Deep Learning Requires Rethinking Generalization </a>
     </li>
 </ol>
 <strong>Blogs</strong>  
@@ -71,20 +110,28 @@ The recommended readings are from 2017. Contents will be updated as the course b
     </li>
 </ol>
 
+## Lecture 2
+<strong>Readings</strong>  
+<ol>
+    <li>
+    <a href="https://arxiv.org/abs/1611.01353"> Information Dropout: Learning Optimal Representations Through Noisy Computation </a>
+    </li>
+    <li>
+    <a href="https://arxiv.org/abs/1712.04741"> Mathematics of Deep Learning </a>
+    </li>
+</ol>
+
 ## Lecture 3
 <strong>Readings</strong>  
 <ol>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf"> A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction </a>
+    <a href="https://arxiv.org/abs/1905.03684"> Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation </a>
     </li>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/Energy2017.pdf"> Energy Propagation in Deep Convolutional Neural Networks </a>
+    <a href="https://arxiv.org/abs/1810.05369"> Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel </a>
     </li>
-	<li>
-	<a href="https://www.nari.ee.ethz.ch/commth//pubs/files/ICML2016.pdf"> Discrete Deep Feature Extraction: A Theory and New Architectures </a>
-	</li>
     <li>
-    <a href="https://www.nari.ee.ethz.ch/commth//pubs/files/SPIE2017.pdf"> Topology Reduction in Deep Convolutional Feature Extraction Networks </a>
+    <a href="https://arxiv.org/abs/1711.00501"> Learning One-hidden-layer Neural Networks with Landscape Design </a>
     </li>
 </ol>
 
@@ -92,13 +139,13 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <strong>Readings</strong>  
 <ol>
 	<li>
-    <a href="https://ankitbpatel715.files.wordpress.com/2017/10/nips2016_todl_v1.pdf"> A Probabilistic Framework for Deep Learning </a>
+    <a href="https://arxiv.org/abs/1711.00165"> Deep Neural Networks as Gaussian Processes </a>
     </li>
 	<li>
-    <a href="https://ankitbpatel715.files.wordpress.com/2016/12/todl_semi_supervised_learning_drmm_arxiv_v0.pdf"> Semi-Supervised Learning with the Deep Rendering Mixture Model </a>
+    <a href="https://arxiv.org/abs/1902.06720"> Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent </a>
     </li>
     <li>
-    <a href="https://arxiv.org/abs/1504.00641"> A Probabilistic Theory of Deep Learning </a>
+    <a href="https://arxiv.org/abs/1810.05148"> Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes </a>
     </li>
 </ol>
 
@@ -106,10 +153,19 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <strong>Readings</strong>  
 <ol>
 	<li>
-	<a href="http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-058v5.pdf"> Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review </a>
+	<a href="https://arxiv.org/abs/1804.06561"> A Mean Field View of the Landscape of Two-Layers Neural Networks </a>
 	</li>
 	<li>
-	<a href="https://arxiv.org/abs/1603.00988"> Learning Functions: When is Deep Better Than Shallow </a>
+	<a href="https://arxiv.org/abs/1902.06015"> Mean-Field Theory of Two-Layers Neural Networks: Dimension-Free Bounds and Kernel Limit </a>
+	</li>
+	<li>
+	<a href="https://arxiv.org/abs/1902.02880"> Mean Field Limit of the Learning Dynamics of Multilayer Neural Networks </a>
+	</li>
+	<li>
+	<a href="https://arxiv.org/abs/1805.09545"> On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport </a>
+	</li>
+	<li>
+	<a href="https://papers.nips.cc/paper/2800-convex-neural-networks.pdf"> Convex Neural Networks </a>
 	</li>
 </ol>
 
@@ -117,22 +173,14 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <strong>Readings</strong>  
 <ol>
     <li>
-    <a href="https://arxiv.org/pdf/1603.00438.pdf"> Convolutional Patch Representations for Image Retrieval: an Unsupervised Approach </a>
+    <a href="https://arxiv.org/abs/1806.07572"> Neural Tangent Kernel: Convergence and Generalization in Neural Networks </a>
     </li>
     <li>
-    <a href="https://papers.nips.cc/paper/5348-convolutional-kernel-networks.pdf"> Convolutional Kernel Networks </a>
+    <a href="https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf"> Random Features for Large-Scale Kernel Machines </a>
     </li>
     <li>
-    <a href="https://papers.nips.cc/paper/4147-kernel-descriptors-for-visual-recognition.pdf"> Kernel Descriptors for Visual Recognition </a>
-    </li>
-    <li>
-    <a href="https://arxiv.org/pdf/1605.06265.pdf"> End-to-End Kernel Learning with Supervised Convolutional Kernel Networks </a>
-    </li>
-    <li>
-    <a href="https://mitpress.mit.edu/books/learning-kernels"> Learning with Kernels </a>
-    </li>
-    <li>
-    <a href="http://www.harchaoui.eu/zaid/publications/hbm_2013_kertest_ieeespm.pdf"> Kernel Based Methods for Hypothesis Testing </a>
+    <a href="https://arxiv.org/abs/1906.08899"> Limitations of Lazy Training of Two-layers Neural Networks
+ </a>
     </li>
 </ol>
 
@@ -141,17 +189,25 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <ol>
 	
 <li>
-<a href="http://www.pennington.ml/papers/geometry_nns.pdf"> Geometry of Neural Network Loss Surfaces via Random Matrix Theory </a>
+<a href="https://arxiv.org/abs/1706.06083"> Towards Deep Learning Models Resistant to Adversarial Attacks
+ </a>
 </li>
 
 <li>
-<a href="http://www.pennington.ml/papers/resurrecting_sigmoid.pdf">Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice</a>
+<a href="https://arxiv.org/abs/1805.12152">Robustness May Be at Odds with Accuracy
+</a>
 </li>
 
 <li>
-<a href="http://www.pennington.ml/papers/nonlinear_rmt.pdf"> Nonlinear random matrix theory for deep learning </a>
+<a href="https://arxiv.org/abs/1312.6199"> Intriguing Properties of Neural Networks
+ </a>
 </li>
 
+<li>
+<a href="https://arxiv.org/abs/1412.6572"> Explaining and Harnessing Adversarial Examples
+
+ </a>
+</li>
 
 </ol>
 
@@ -161,16 +217,14 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <ol>
 
 <li>
-<a href="http://papers.nips.cc/paper/6111-deep-learning-without-poor-local-minima"> Deep Learning without Poor Local Minima </a>
+<a href="https://arxiv.org/abs/1412.6614"> In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning </a>
 </li>
 <li>
-<a href="https://arxiv.org/abs/1611.01540"> Topology and Geometry of Half-Rectified Network Optimization </a>
+<a href="https://arxiv.org/abs/1802.08246"> Characterizing Implicit Bias in Terms of Optimization Geometry </a>
 </li> 
 <li>
-<a href="https://arxiv.org/abs/1609.01000"> Convexified Convolutional Neural Networks </a>
-</li> 
-<li>
-<a href="https://arxiv.org/pdf/1705.09280.pdf"> Implicit Regularization in Matrix Factorization </a>
+<a href="https://arxiv.org/abs/1710.10345"> The Implicit Bias of Gradient Descent on Separable Data
+ </a>
 </li> 
 
 </ol>
@@ -179,13 +233,11 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <strong>Readings</strong>  
 <ol>
     <li>
-    <a href="http://redwood.berkeley.edu/bruno/public/papers/Fukushima1980.pdf">Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position</a>
+    <a href="https://arxiv.org/abs/1312.6120">Exact Solutions to the Nonlinear Dynamics of Learning in Deep Linear Neural Networks</a>
     </li>
     <li>
-    <a href="http://redwood.berkeley.edu/bruno/papers/perception-as-inference.pdf">Perception as an inference problem</a>
-    </li>
-    <li>
-    <a href="http://redwood.berkeley.edu/bruno/papers/jneurosci93.pdf">A Neurobiological Model of Visual Attention and Invariant Pattern Recognition Based on Dynamic Routing of Information</a>
+    <a href="https://arxiv.org/abs/1412.6544">Qualitatively Characterizing Neural Network Optimization Problems
+</a>
     </li>
 </ol>
 
@@ -193,21 +245,19 @@ The recommended readings are from 2017. Contents will be updated as the course b
 <strong>Readings</strong>  
 <ol>
 	<li>
-    <a href="https://arxiv.org/pdf/1707.06066.pdf"> Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding </a>
+    <a href="https://arxiv.org/abs/1811.07062"> The Full Spectrum of Deepnet Hessians at Scale: Dynamics with SGD Training and Sample Size </a>
     </li>
 	<li>
-    <a href="https://arxiv.org/pdf/1607.08194.pdf"> Convolutional Neural Networks Analyzed via Convolutional Sparse Coding </a>
+    <a href="https://arxiv.org/abs/1406.2572"> Identifying and Attacking the Saddle Point Problem in High-dimensional Non-convex Optimization </a>
     </li>
 	<li>
-    <a href="https://arxiv.org/pdf/1708.08705.pdf"> Multi-Layer Convolutional Sparse Modeling: Pursuit and Dictionary Learning </a>
-    </li>
-	<li>
-    <a href="https://arxiv.org/pdf/1705.03239.pdf"> Convolutional Dictionary Learning via Local Processing </a>
+    <a href="https://arxiv.org/abs/1706.04454"> Empirical Analysis of the Hessian of Over-Parametrized Neural Networks
+ </a>
     </li>
 </ol>
 
 ## To be discussed and extra
-- [Emergence of simple cell](https://courses.cs.washington.edu/courses/cse528/11sp/Olshausen-nature-paper.pdf) by Olshausen and Field
+- [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961) by Silver et al.
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) by Kingma and Welling
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
 - [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530) by Zhang et al.

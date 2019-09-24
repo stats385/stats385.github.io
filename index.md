@@ -118,7 +118,11 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [In the media](media)
 
+{% endcomment %}  
+
 ## [Reading list and other resources](readings)
+
+{% comment %}
 
 ## [Lecture slides](lecture_slides)  
 
