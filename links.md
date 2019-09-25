@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Some Useful Links
+## Activities
 
 <strong>Workshops</strong>  
 <ol>
@@ -19,8 +19,8 @@ layout: default
 
 </ol>
 
-<strong>Blogs</strong>  
-<ol>
+## Blogs
+
 - [Open AI](https://blog.openai.com/)
 - [Distill](https://distill.pub/)
 - [BAIR Blog](http://bair.berkeley.edu/blog/)
@@ -34,7 +34,5 @@ layout: default
 - [Andrew Trask’s Blog](http://iamtrask.github.io/)
 - [Graduate Descent](http://timvieira.github.io/blog/)
 - [Adit Deshpande’s Blog](https://adeshpande3.github.io/)
-
-</ol>
 
 [back](./)
