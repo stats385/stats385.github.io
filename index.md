@@ -132,6 +132,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
 
+## [Useful links](links)
 {% comment %}
 
 ## [Blogs](blogs)
