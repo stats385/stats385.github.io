@@ -122,11 +122,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Reading list and other resources](readings)
 
-{% comment %}
-
 ## [Lecture slides](lecture_slides)  
-
-{% endcomment %}  
 
 ## [Basic information about deep learning](basicinfo)    
 
