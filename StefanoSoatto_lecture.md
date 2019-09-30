@@ -14,13 +14,13 @@ The practical implications of the theory are (a) a system to perform model recom
 
 
 ## References
-1. A. Achille and S. Soatto, Emergence of Invariance and Disentanglement in Deep Representations, JMLR 2018, https://arxiv.org/pdf/1706.01350.pdf      
-2. A. Achille and S. Soatto, Where is the Information in a Deep Neural Network? https://arxiv.org/pdf/1905.12213.pdf 
-3. (optional) A. Achille et al., The Information Complexity of Learning Tasks, their Structure and their Distance https://arxiv.org/pdf/1904.03292.pdf
-4. A. Achille, M. Rovere and S. Soatto, Critical Learning Periods in Deep Neural Networks, ICLR 2019, https://arxiv.org/pdf/1711.08856.pdf
-5. (optional) A. Achille, G. Mbeng an S. Soatto, Dynamics and Reachability of Learning Tasks, https://arxiv.org/abs/1810.02440
-6. A. Achille et al., Task2Vec, Task Embedding for Meta Learning, ICCV 2019, https://arxiv.org/pdf/1902.03545.pdf
-7. A. Golaktar et al., Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence, NeurIPS 2019, https://arxiv.org/pdf/1905.13277.pdf
+1. A. Achille and S. Soatto, Emergence of Invariance and Disentanglement in Deep Representations, JMLR 2018, ![https://arxiv.org/pdf/1706.01350.pdf](https://arxiv.org/pdf/1706.01350.pdf)
+2. A. Achille and S. Soatto, Where is the Information in a Deep Neural Network? [https://arxiv.org/pdf/1905.12213.pdf](https://arxiv.org/pdf/1905.12213.pdf )
+3. (optional) A. Achille et al., The Information Complexity of Learning Tasks, their Structure and their Distance [https://arxiv.org/pdf/1904.03292.pdf](https://arxiv.org/pdf/1904.03292.pdf)
+4. A. Achille, M. Rovere and S. Soatto, Critical Learning Periods in Deep Neural Networks, ICLR 2019, [https://arxiv.org/pdf/1711.08856.pdf](https://arxiv.org/pdf/1711.08856.pdf)
+5. (optional) A. Achille, G. Mbeng an S. Soatto, Dynamics and Reachability of Learning Tasks, [https://arxiv.org/abs/1810.02440](https://arxiv.org/abs/1810.02440)
+6. A. Achille et al., Task2Vec, Task Embedding for Meta Learning, ICCV 2019, [https://arxiv.org/pdf/1902.03545.pdf](https://arxiv.org/pdf/1902.03545.pdf)
+7. A. Golaktar et al., Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence, NeurIPS 2019, [https://arxiv.org/pdf/1905.13277.pdf](https://arxiv.org/pdf/1905.13277.pdf)
 
 
 
@@ -34,4 +34,4 @@ Dr. Soatto is the recipient of the David Marr Prize (with Y. Ma, J. Kosecka and 
 
 
 
-[back](./)
+[Back](./)
