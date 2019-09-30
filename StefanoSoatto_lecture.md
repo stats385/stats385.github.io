@@ -10,19 +10,17 @@ The first two parts address the question of optimal representations for a given 
 In the third part (15'), I will use the Information in the Weights, developed in the previous part, to define an asymmetric distance between tasks that correlates highly with ease of fine-tuning. Not only it is possible to determine how “far” two learning tasks are, but one can also predict how many computational resources will be needed to fine-tune from one task to another. This picture, however, has a wrinkle. There exist tasks that are very close to each other, yet it is not possible to fine-tune one from the other. I will show an empirical phenomenon whereby pre-training not only not beneficial, but detrimental. This  is observed widely in different architectures, optimizations, tasks, learning rates, and even in biological systems. It puts the emphasis on the role of the transient dynamics of differential learning. I will introduce a notion of Dynamic Distance between learning tasks, that accounts for the global geometry of the loss landscape, through an approximation of the probability over paths between any two points in the loss landscape, and a notion of Task Reachability.  The reference reading is [4].
 
 The practical implications of the theory are (a) a system to perform model recommendation by computing the distance between a given task and a large number of pre-trained tasks, without actually running any fine-tuning experiments, by embedding each task in a linear space (Task2Vec, [6]), and (b) the discovery that regularization in deep networks does not work by smoothing the loss landscape, but by influencing the early stages of convergence [7], leaving many questions and opportunities for investigation open.
-</p>
-</div>
+
+
 
 ## References
-[1] A. Achille and S. Soatto, Emergence of Invariance and Disentanglement in Deep Representations, JMLR 2018, https://arxiv.org/pdf/1706.01350.pdf      
-[2] A. Achille and S. Soatto, Where is the Information in a Deep Neural Network? https://arxiv.org/pdf/1905.12213.pdf 
-[3] (optional) A. Achille et al., The Information Complexity of Learning Tasks, their Structure and their Distance https://arxiv.org/pdf/1904.03292.pdf
-[4] A. Achille, M. Rovere and S. Soatto, Critical Learning Periods in Deep Neural Networks, ICLR 2019, https://arxiv.org/pdf/1711.08856.pdf
-[5] (optional) A. Achille, G. Mbeng an S. Soatto, Dynamics and Reachability of Learning Tasks, https://arxiv.org/abs/1810.02440
-[6] A. Achille et al., Task2Vec, Task Embedding for Meta Learning, ICCV 2019, https://arxiv.org/pdf/1902.03545.pdf
-[7] A. Golaktar et al., Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence, NeurIPS 2019, https://arxiv.org/pdf/1905.13277.pdf
-</p>
-</div>
+1. A. Achille and S. Soatto, Emergence of Invariance and Disentanglement in Deep Representations, JMLR 2018, https://arxiv.org/pdf/1706.01350.pdf      
+2. A. Achille and S. Soatto, Where is the Information in a Deep Neural Network? https://arxiv.org/pdf/1905.12213.pdf 
+3. (optional) A. Achille et al., The Information Complexity of Learning Tasks, their Structure and their Distance https://arxiv.org/pdf/1904.03292.pdf
+4. A. Achille, M. Rovere and S. Soatto, Critical Learning Periods in Deep Neural Networks, ICLR 2019, https://arxiv.org/pdf/1711.08856.pdf
+5. (optional) A. Achille, G. Mbeng an S. Soatto, Dynamics and Reachability of Learning Tasks, https://arxiv.org/abs/1810.02440
+6. A. Achille et al., Task2Vec, Task Embedding for Meta Learning, ICCV 2019, https://arxiv.org/pdf/1902.03545.pdf
+7. A. Golaktar et al., Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence, NeurIPS 2019, https://arxiv.org/pdf/1905.13277.pdf
 
 
 
