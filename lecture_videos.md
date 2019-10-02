@@ -1,4 +1,9 @@
 
+# Lecture videos for STATS385, Fall 2019
+
+
+### [Lecture01: Analyses of Deep Learning (Donoho)]( https://www.youtube.com/watch?v=uEg2Asp2EJo&feature=youtu.be)
+
 # Lecture videos for STATS385, Fall 2017
 
 
