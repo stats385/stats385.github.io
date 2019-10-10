@@ -3,6 +3,7 @@
 
 
 ### [Lecture01: Analyses of Deep Learning (Donoho)]( https://www.youtube.com/watch?v=uEg2Asp2EJo&feature=youtu.be)
+### [Lecture03: Analyses of Deep Learning (Tengyu Ma)]( https://www.youtube.com/watch?v=neN9Y7A4Ul0&feature=youtu.be)
 
 # Lecture videos for STATS385, Fall 2017
 
