@@ -1,4 +1,4 @@
-## The Surprising Simplicity of Overparameterized Deep Neural Networks</strong>
+## The Surprising Simplicity of Overparameterized Deep Neural Networks
 
 In the physical sciences, it has often proved fruitful to study large, complex system by means of high-dimensional, mean-field, or other asymptotic approximations. For example, when the number of interacting particles in a thermodynamic system is large, exact microscopic descriptions are intractable, but macroscopic quantities such as temperature and pressure can nevertheless provide a useful characterization of its properties. Another modern example is the 1/N expansion in quantum field theory, in which the dimensionality N of an internal symmetry group is taken to be large, often leading to simplifications and unexpected connections such as AdS/CFT dualities.
 
