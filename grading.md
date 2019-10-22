@@ -13,4 +13,7 @@ Please use the canvas chat feature to post questions during lectures. We will pi
 
 You will submit two essays of at least two pages each (latex article 12 point). Each essay will cover at least one of the talks in the course or one topic raised in multiple talks. Demonstrate your engagement with the topic by showing that you understand the points being made and then propose a new theoretical calculation or new experiment and measurement that will advance the discussion further. E.g., "I would next like to see measurement of XYZW and comparison of A with B. This would tell us if the effect being discussed is of type P or type Q". The first essay should be based on the first five lectures (up to Song Mei's lecture), and is due on Sunday, Nov 17, 11pm. The second essay should be based on the remaining five lectures, and is due on Sunday, Dec 15, 11pm. You may use canvas to submit your essays.
 
+## Passing grade
+The passing grade is 80/100.
+
 [back](./)
