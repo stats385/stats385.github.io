@@ -3,16 +3,14 @@ layout: default
 ---
 
 ## Grading methodology
-The grade in this course will be based on two factors:
+Students will be graded based on two components:
 
-#### Q&A participation: 35/100
+#### Student engagement: 35/100
 
-During the quarter we will have 8 guest lectures, during which students can post questions on Canvas and obtain 5/100 points for a maximum of 35/100 points. The goal is to stimulate discussion in class, encourage critical thinking and provide feedback for the presenters.
+Please use the canvas chat feature to post questions during lectures. We will pick a subset of these questions and ask them in class. At the end of the term, we will use the chat record to assess student engagement. Topicality and quality of questions matter! We don?t want to abuse the privilege of interrogating our esteemed lecturers.
 
-#### Reviewing paper: 65/100 
-Each student is required to write a minimum two-page review of a theoretical paper in the area of deep learning including, but not limited to, those discussed in this class. In particular, your review should include a brief summary of the paper followed by your critique. The deadline for submitting the review is December 16.
+#### Student essays: 65/100
 
-## Passing grade
-The passing grade is 80/100, which amounts to summarizing a paper and participating in the Q&A of 3 lectures.
+You will submit two essays of at least two pages each (latex article 12 point). Each essay will cover at least one of the talks in the course or one topic raised in multiple talks. Demonstrate your engagement with the topic by showing that you understand the points being made and then propose a new theoretical calculation or new experiment and measurement that will advance the discussion further. E.g., "I would next like to see measurement of XYZW and comparison of A with B. This would tell us if the effect being discussed is of type P or type Q". The first essay should be based on the first five lectures (up to Song Mei's lecture), and is due on Sunday, Nov 17, 11pm. The second essay should be based on the remaining five lectures, and is due on Sunday, Dec 15, 11pm. You may use canvas to submit your essays.
 
 [back](./)

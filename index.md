@@ -133,9 +133,10 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 
 ## [Blogs](blogs)
 
+{% endcomment %}  
+
 ## [Grading](grading)
 
-{% endcomment %}  
 
 ## [Plan your visit](speaker_visit)
 
