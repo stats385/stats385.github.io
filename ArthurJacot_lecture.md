@@ -26,7 +26,7 @@ A nice [video](https://www.youtube.com/watch?v=raT2ECrvbag&t=131s) that explains
 
 ![Arthur Jacot](/assets/img/ArthurJacot.png)  
 
-Arthur Jacot is a PhD student in mathematics at the EPFL. After a Bachelor at the Freie Universität Berlin, he finished his master at the EPFL. Since 2018, he works on the theory of deep neural networks at the Chair of Statistical Field Theory, supervised by Prof. Clément Hongler. He specializes in the study of infinitely wide networks, i.e. in the limit where the number of hidden neutrons grows to infinity. In this limit, the dynamics simplify and are described by a single object, the Neural Tangent Kernel, which was introduced by Arthur Jacot, Franck Gabriel and Clément Hongler in a 2018 NeurIPS paper.
+Arthur Jacot is a PhD student in mathematics at the EPFL. After a Bachelor at the Freie Universitat Berlin, he finished his master at the EPFL. Since 2018, he works on the theory of deep neural networks at the Chair of Statistical Field Theory, supervised by Prof. Clement Hongler. He specializes in the study of infinitely wide networks, i.e. in the limit where the number of hidden neutrons grows to infinity. In this limit, the dynamics simplify and are described by a single object, the Neural Tangent Kernel, which was introduced by Arthur Jacot, Franck Gabriel and Clement Hongler in a 2018 NeurIPS paper.
 
 
 [Back](./)
