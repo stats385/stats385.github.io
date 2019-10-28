@@ -5,5 +5,6 @@
 ### [Lecture2 (Stefano Soatto)](./assets/lectures/StefanoSoattoStanford2019Oct3.pdf)
 ### [Lecture3 (Tengyu Ma)](./assets/lectures/Lecture_3_Tengyu_Ma.pptx)
 ### [Lecture4 (Jeffrey Pennington)](./assets/lectures/Simplicity_of_overparameterized_networks.pdf)
+### [Lecture5 (Song Mei)](./assets/lectures/MF_dynamics_Stanford.pdf)
 
 [back](./)
