@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   end
 
   s.platform      = Gem::Platform::RUBY
-  s.add_runtime_dependency "jekyll", "~> 3.3"
+  s.add_runtime_dependency "jekyll", ">= 3.3", "< 5.0"
 end
