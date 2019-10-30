@@ -6,5 +6,6 @@
 ### [Lecture3 (Tengyu Ma)](./assets/lectures/Lecture_3_Tengyu_Ma.pptx)
 ### [Lecture4 (Jeffrey Pennington)](./assets/lectures/Simplicity_of_overparameterized_networks.pdf)
 ### [Lecture5 (Song Mei)](./assets/lectures/MF_dynamics_Stanford.pdf)
+### [Lecture6 (Arthur Jacot)](./assets/lectures/NTK_freeze_chaos_drawing.pdf)
 
 [back](./)
