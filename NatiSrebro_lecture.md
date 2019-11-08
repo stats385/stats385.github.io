@@ -6,21 +6,21 @@ It is becoming increasingly clear that implicit regularization afforded by the o
 
 Here's a roadmap of the relevant papers:
 
-An older paper that takes a higher level view of what might be going on and what we want to try to achieve is https://arxiv.org/abs/1705.03071
+An older paper that takes a higher level view of what might be going on and what we want to try to achieve is [https://arxiv.org/abs/1705.03071](https://arxiv.org/abs/1705.03071)
 
-Gradient descent on logistic regression leads to max margin:  https://arxiv.org/abs/1710.10345
-(two very technical papers refine the exact rates and conditions are https://arxiv.org/abs/1806.01796 and https://arxiv.org/abs/1803.01905 --- I will not be discussing these results directly)
+Gradient descent on logistic regression leads to max margin: [https://arxiv.org/abs/1710.10345](https://arxiv.org/abs/1710.10345)
+(two very technical papers refine the exact rates and conditions are [https://arxiv.org/abs/1806.01796](https://arxiv.org/abs/1806.01796) and [https://arxiv.org/abs/1803.01905](https://arxiv.org/abs/1803.01905) --- I will not be discussing these results directly)
 
-Implicit regularization in matrix factorization: https://arxiv.org/abs/1705.09280 , and a follow-up paper by Tengyu Ma and co-authors: https://arxiv.org/abs/1712.09203
-Relationship to NTK and elaboration of the techniques:  https://arxiv.org/abs/1906.05827  
+Implicit regularization in matrix factorization: [https://arxiv.org/abs/1705.09280](https://arxiv.org/abs/1705.09280) , and a follow-up paper: [https://arxiv.org/abs/1712.09203](https://arxiv.org/abs/1712.09203)
+Relationship to NTK and elaboration of the techniques: [https://arxiv.org/abs/1906.05827](https://arxiv.org/abs/1906.05827)
 
-General implicit reg framework and relation to optimization geometry: https://arxiv.org/abs/1802.08246 
+General implicit reg framework and relation to optimization geometry: [https://arxiv.org/abs/1802.08246](https://arxiv.org/abs/1802.08246)
 
-Implicit regularization in linear conv nets:  https://arxiv.org/abs/1806.00468 
-Generalization of the above ideas: https://arxiv.org/abs/1905.07325 
+Implicit regularization in linear conv nets: [https://arxiv.org/abs/1806.00468](https://arxiv.org/abs/1806.00468)
+Generalization of the above ideas: [https://arxiv.org/abs/1905.07325](https://arxiv.org/abs/1905.07325)
 
-Inductive bias in infinite-width ReLU networks, in one dimension: https://arxiv.org/abs/1902.05040
-In higher dimensions: https://arxiv.org/abs/1910.01635
+Inductive bias in infinite-width ReLU networks, in one dimension: [https://arxiv.org/abs/1902.05040](https://arxiv.org/abs/1902.05040)
+In higher dimensions: [https://arxiv.org/abs/1910.01635](https://arxiv.org/abs/1910.01635)
 
 
 ![Nati Srebro](/assets/img/NatiSrebro.jpg)  
