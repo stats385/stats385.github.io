@@ -7,5 +7,6 @@
 ### [Lecture4 (Jeffrey Pennington)](./assets/lectures/Simplicity_of_overparameterized_networks.pdf)
 ### [Lecture5 (Song Mei)](./assets/lectures/MF_dynamics_Stanford.pdf)
 ### [Lecture6 (Arthur Jacot)](./assets/lectures/NTK_freeze_chaos_drawing.pdf)
+### [Lecture7 (Aleksander Madry)](./assets/lectures/ML_robustness_perspective_Stanford.pptx.zip)
 
 [back](./)
