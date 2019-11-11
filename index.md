@@ -108,7 +108,7 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 <img src="assets/img/VardanPapyan.png">
 </div>
 <div class="card">
-<a class="talkdate" href="./VardanPapyan_lecture">Wednesday, 12/6/19</a> <br>
+<a class="talkdate" href="./VardanPapyan_lecture">Wednesday, 12/4/19</a> <br>
 <span class="speaker">Vardan Papyan</span> <br>
 <span class="speakerposition">Stanford</span>
 </div>
