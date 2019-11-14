@@ -8,7 +8,7 @@
 ### [Lecture05: Analyses of Deep Learning (Song Mei)](https://www.youtube.com/watch?v=7vHr7f3byLc&feature=youtu.be)
 ### [Lecture06: Analyses of Deep Learning (Arthur Jacot)](https://www.youtube.com/watch?v=GLKY8Zh1VzY&feature=youtu.be)
 ### [Lecture07: Analyses of Deep Learning (Aleksander Madry)](https://www.youtube.com/watch?v=udrKgIE4cY0&feature=youtu.be)
-
+### [Lecture08: Analyses of Deep Learning (Nathan Srebro)](https://www.youtube.com/watch?v=F9172atHmRs&feature=youtu.be)
 
 
 
