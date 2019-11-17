@@ -8,5 +8,6 @@
 ### [Lecture5 (Song Mei)](./assets/lectures/MF_dynamics_Stanford.pdf)
 ### [Lecture6 (Arthur Jacot)](./assets/lectures/NTK_freeze_chaos_drawing.pdf)
 ### [Lecture7 (Aleksander Madry)](./assets/lectures/ML_robustness_perspective_Stanford.pptx.zip)
+### [Lecture8 (Nati Srebro)](./assets/lectures/Stanford_Donoho_class_Nov_19.pdf)
 
 [back](./)
