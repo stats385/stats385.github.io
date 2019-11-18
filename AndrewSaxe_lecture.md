@@ -4,7 +4,7 @@ What is the effect of depth on learning dynamics in neural networks? What interp
 
 ## References
 
-1. Saxe, A. M., McClelland, J. L., & Ganguli, S. (2019) [A mathematical theory of semantic development in deep neural networks.](https://arxiv.org/abs/1810.10531) Proceedings of the National Academy of Sciences, 116(23), 11537?11546.
+1. Saxe, A. M., McClelland, J. L., & Ganguli, S. (2019) [A mathematical theory of semantic development in deep neural networks.](https://arxiv.org/abs/1810.10531) Proceedings of the National Academy of Sciences, 116(23), 11537--11546.
 2. Advani*, M., & Saxe*, A. M (2017).  [High-dimensional dynamics of generalization error in neural networks.](https://arxiv.org/abs/1710.03667v1) *Equal contributions.
 3. Saxe, A. M., McClelland, J. L., & Ganguli, S. (2014). [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.](https://arxiv.org/abs/1312.6120v3) ICLR, 2014.
 
