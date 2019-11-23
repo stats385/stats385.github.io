@@ -9,5 +9,6 @@
 ### [Lecture6 (Arthur Jacot)](./assets/lectures/NTK_freeze_chaos_drawing.pdf)
 ### [Lecture7 (Aleksander Madry)](./assets/lectures/ML_robustness_perspective_Stanford.pptx.zip)
 ### [Lecture8 (Nati Srebro)](./assets/lectures/Stanford_Donoho_class_Nov_19.pdf)
+### [Lecture9 (Andrew Saxe)](./assets/lectures/deep_lin_net_stanfordstats.pptx)
 
 [back](./)
