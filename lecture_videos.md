@@ -10,7 +10,7 @@
 ### [Lecture07: Analyses of Deep Learning (Aleksander Madry)](https://www.youtube.com/watch?v=udrKgIE4cY0&feature=youtu.be)
 ### [Lecture08: Analyses of Deep Learning (Nathan Srebro)](https://www.youtube.com/watch?v=F9172atHmRs&feature=youtu.be)
 ### [Lecture09: Analyses of Deep Learning (Andrew Saxe)](https://www.youtube.com/watch?v=tsOpYO8o9gA&feature=youtu.be)
-
+### [Lecture10: Analyses of Deep Learning (Vardan Papyan)](https://www.youtube.com/watch?v=DzWLllhLQjw&feature=youtu.be)
 
 
 
